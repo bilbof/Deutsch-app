@@ -1,12 +1,13 @@
 body {
   font-size: 30px;
   text-align: center;
+  color:#fff !important;
+  background-color: #000 !important;
 }
 
 .wrapper {
   position: relative;
   width: 100%;
-  background-color: #fff;
 }
 
 .card {

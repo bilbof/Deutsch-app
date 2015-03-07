@@ -30,8 +30,21 @@ translate();
 $('.load').click(function(){
   translate();
   $('#english').text("?"); 	// replace all existing content
-
 });
+
+
+$(document).keyup(function(event){
+  if(event.keyCode == 40){
+    translate();
+  }
+  if(event.keyCode == 39){
+    $('.reveal').click();
+  }
+});
+
+
+
+
 
 });
 

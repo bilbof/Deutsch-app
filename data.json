@@ -1,43 +1,7 @@
 [
-	{
-		"german": "Hallo welt!",
-		"english": "Hello world!"
-	},
-	{
-		"german": "Wie gehts?",
-		"english": "How are you?"
-	},
-	{
-		"german": "Ich bin",
-		"english": "I am"
-	},
-	{
-		"german": "Sorry",
-		"english": "Sorry"
-	},
-	{
-		"german": "Kein problem",
-		"english": "No problem"
-	},
-	{
-		"german": "Das ist Toll",
-		"english": "That's great"
-	},
-	{
-		"german": "Perfekt",
-		"english": "Perfect"
-	},
-	{
-		"german": "Wunderbar",
-		"english": "Wonderful"
-	},
-	{
-		"german": "Fantastisch",
-		"english": "Fantastic"
-	},
   {
-    "german":"der",
-    "english":"the"
+    "german":"Hallo Welt!",
+    "english":"Hello World!"
   },
   {
     "german":"die",
@@ -45,15 +9,15 @@
   },
   {
     "german":"und",
-    "english":"a"
+    "english":"and"
   },
   {
     "german":"in",
-    "english":"at"
+    "english":"in"
   },
   {
     "german":"den",
-    "english":"to"
+    "english":"the"
   },
   {
     "german":"von",
@@ -73,15 +37,15 @@
   },
   {
     "german":"sich",
-    "english":"oneself; himself; herself; itself; themselves"
+    "english":"themselves"
   },
   {
     "german":"des",
-    "english":"the"
+    "english":"of the"
   },
   {
     "german":"auf",
-    "english":"on"
+    "english":"to"
   },
   {
     "german":"für",
@@ -97,7 +61,7 @@
   },
   {
     "german":"dem",
-    "english":"that"
+    "english":"the"
   },
   {
     "german":"nicht",
@@ -105,15 +69,15 @@
   },
   {
     "german":"ein",
-    "english":"on/off"
+    "english":"an"
   },
   {
     "german":"Die",
-    "english":""
+    "english":"The"
   },
   {
     "german":"eine",
-    "english":"somebody, someone, one"
+    "english":"an"
   },
   {
     "german":"als",
@@ -125,15 +89,15 @@
   },
   {
     "german":"es",
-    "english":"is"
+    "english":"it"
   },
   {
     "german":"an",
-    "english":"in"
+    "english":"to"
   },
   {
     "german":"werden",
-    "english":"become"
+    "english":"will"
   },
   {
     "german":"aus",
@@ -148,8 +112,8 @@
     "english":"has"
   },
   {
-    "german":"daß*",
-    "english":"this?"
+    "german":"daß",
+    "english":"that"
   },
   {
     "german":"sie",
@@ -161,7 +125,7 @@
   },
   {
     "german":"wird",
-    "english":"becomes"
+    "english":"shall"
   },
   {
     "german":"bei",
@@ -173,15 +137,15 @@
   },
   {
     "german":"Der",
-    "english":"one"
+    "english":"The"
   },
   {
     "german":"um",
-    "english":"around"
+    "english":"about"
   },
   {
     "german":"am",
-    "english":"in"
+    "english":"on the"
   },
   {
     "german":"sind",
@@ -189,7 +153,7 @@
   },
   {
     "german":"noch",
-    "english":"still"
+    "english":"yet"
   },
   {
     "german":"wie",
@@ -197,19 +161,19 @@
   },
   {
     "german":"einem",
-    "english":"to one"
-  },
-  {
-    "german":"über",
-    "english":""
-  },
-  {
-    "german":"einen",
     "english":"one"
   },
   {
+    "german":"über",
+    "english":"about"
+  },
+  {
+    "german":"einen",
+    "english":"an"
+  },
+  {
     "german":"Das",
-    "english":"this"
+    "english":"The"
   },
   {
     "german":"so",
@@ -217,7 +181,7 @@
   },
   {
     "german":"Sie",
-    "english":"they"
+    "english":"They"
   },
   {
     "german":"zum",
@@ -233,7 +197,7 @@
   },
   {
     "german":"nur",
-    "english":"only"
+    "english":"the only"
   },
   {
     "german":"oder",
@@ -245,7 +209,7 @@
   },
   {
     "german":"vor",
-    "english":"before"
+    "english":"in front of"
   },
   {
     "german":"zur",
@@ -273,19 +237,19 @@
   },
   {
     "german":"wurde",
-    "english":"became"
+    "english":"was"
   },
   {
     "german":"sei",
-    "english":"is"
+    "english":"was"
   },
   {
     "german":"In",
-    "english":"in"
+    "english":"In"
   },
   {
     "german":"Prozent",
-    "english":"percent"
+    "english":"Percent"
   },
   {
     "german":"hatte",
@@ -317,19 +281,19 @@
   },
   {
     "german":"habe",
-    "english":"has"
+    "english":"have"
   },
   {
     "german":"seine",
     "english":"his"
   },
   {
-    "german":"Mark**",
-    "english":""
+    "german":"Mark",
+    "english":"Marrow"
   },
   {
     "german":"ihre",
-    "english":"theirs"
+    "english":"their"
   },
   {
     "german":"dann",
@@ -345,7 +309,7 @@
   },
   {
     "german":"soll",
-    "english":"should go"
+    "english":"shall"
   },
   {
     "german":"ich",
@@ -357,11 +321,11 @@
   },
   {
     "german":"Es",
-    "english":"it"
+    "english":"It"
   },
   {
     "german":"Jahr",
-    "english":"year"
+    "english":"Year"
   },
   {
     "german":"zwei",
@@ -369,7 +333,7 @@
   },
   {
     "german":"Jahren",
-    "english":"To years"
+    "english":"Years"
   },
   {
     "german":"diese",
@@ -385,7 +349,7 @@
   },
   {
     "german":"keine",
-    "english":"none"
+    "english":"no"
   },
   {
     "german":"Uhr",
@@ -397,7 +361,7 @@
   },
   {
     "german":"worden",
-    "english":"become"
+    "english":"been"
   },
   {
     "german":"Und",
@@ -405,7 +369,7 @@
   },
   {
     "german":"will",
-    "english":"wants"
+    "english":"will"
   },
   {
     "german":"zwischen",
@@ -413,7 +377,7 @@
   },
   {
     "german":"Im",
-    "english":"In"
+    "english":"In the"
   },
   {
     "german":"immer",
@@ -421,11 +385,11 @@
   },
   {
     "german":"Millionen",
-    "english":"Millions"
+    "english":"Million"
   },
   {
     "german":"Ein",
-    "english":"One"
+    "english":"An"
   },
   {
     "german":"was",
@@ -441,19 +405,19 @@
   },
   {
     "german":"gibt",
-    "english":"gives"
+    "english":"are"
   },
   {
     "german":"alle",
-    "english":"everything"
+    "english":"all"
   },
   {
-    "german":"DM*",
-    "english":"DM*"
+    "german":"DM",
+    "english":"DM"
   },
   {
     "german":"diesem",
-    "english":"to this"
+    "english":"this"
   },
   {
     "german":"seit",
@@ -461,19 +425,19 @@
   },
   {
     "german":"muß",
-    "english":"must go"
+    "english":"must"
   },
   {
     "german":"wurden",
-    "english":"became"
+    "english":"were"
   },
   {
     "german":"beim",
-    "english":"with"
+    "english":"the"
   },
   {
     "german":"doch",
-    "english":"however"
+    "english":"yet"
   },
   {
     "german":"jetzt",
@@ -497,15 +461,15 @@
   },
   {
     "german":"neue",
-    "english":"new one"
+    "english":"new"
   },
   {
     "german":"neuen",
-    "english":"to new ones"
+    "english":"new"
   },
   {
     "german":"damit",
-    "english":"with it"
+    "english":"in order to"
   },
   {
     "german":"bereits",
@@ -513,7 +477,7 @@
   },
   {
     "german":"da",
-    "english":"there"
+    "english":"because"
   },
   {
     "german":"Auch",
@@ -521,7 +485,7 @@
   },
   {
     "german":"ihr",
-    "english":"you"
+    "english":"their"
   },
   {
     "german":"seinen",
@@ -529,7 +493,7 @@
   },
   {
     "german":"müssen",
-    "english":"must go"
+    "english":"must"
   },
   {
     "german":"ab",
@@ -537,7 +501,7 @@
   },
   {
     "german":"ihrer",
-    "english":"theirs"
+    "english":"of her"
   },
   {
     "german":"Nach",
@@ -553,11 +517,11 @@
   },
   {
     "german":"selbst",
-    "english":"even"
+    "english":"itself"
   },
   {
     "german":"ersten",
-    "english":"to first ones"
+    "english":"first"
   },
   {
     "german":"nun",
@@ -565,7 +529,7 @@
   },
   {
     "german":"etwa",
-    "english":"possibly"
+    "english":"about"
   },
   {
     "german":"Bei",
@@ -577,7 +541,7 @@
   },
   {
     "german":"ihren",
-    "english":"theirs"
+    "english":"their"
   },
   {
     "german":"weil",
@@ -585,2231 +549,27 @@
   },
   {
     "german":"ihm",
-    "english":"to him"
+    "english":"him"
   },
   {
     "german":"seien",
     "english":"are"
   },
   {
-    "german":"Menschen Deutschland",
-    "english":"People Germany"
-  },
-  {
-    "german":"anderen",
-    "english":"to others"
-  },
-  {
-    "german":"werde",
-    "english":"becomes"
-  },
-  {
-    "german":"Ich",
-    "english":"I"
-  },
-  {
-    "german":"sagt",
-    "english":"says"
-  },
-  {
-    "german":"Wir",
-    "english":"We"
-  },
-  {
-    "german":"Eine",
-    "english":"One"
-  },
-  {
-    "german":"rund",
-    "english":"around"
-  },
-  {
-    "german":"Für",
-    "english":"For"
-  },
-  {
-    "german":"Aber",
-    "english":"But"
-  },
-  {
-    "german":"ihn",
-    "english":"him"
-  },
-  {
-    "german":"Ende",
-    "english":"End"
-  },
-  {
-    "german":"jedoch",
-    "english":"however"
-  },
-  {
-    "german":"Zeit",
-    "english":"Time"
-  },
-  {
-    "german":"sollen",
-    "english":"should go"
-  },
-  {
-    "german":"ins",
-    "english":"in this"
-  },
-  {
-    "german":"Wenn",
-    "english":"If"
-  },
-  {
-    "german":"So",
-    "english":"So"
-  },
-  {
-    "german":"seinem",
-    "english":"his"
-  },
-  {
-    "german":"uns Stadt",
-    "english":"we town"
-  },
-  {
-    "german":"geht",
-    "english":"goes"
-  },
-  {
-    "german":"Doch",
-    "english":"However"
-  },
-  {
-    "german":"sehr",
-    "english":"very much"
-  },
-  {
-    "german":"hier",
-    "english":"here"
-  },
-  {
-    "german":"ganz",
-    "english":"completely"
-  },
-  {
-    "german":"erst",
-    "english":"only"
-  },
-  {
-    "german":"wollen",
-    "english":"want"
-  },
-  {
-    "german":"Berlin",
-    "english":"Berlin"
-  },
-  {
-    "german":"vor allem",
-    "english":"above all"
-  },
-  {
-    "german":"sowie",
-    "english":"as well as"
-  },
-  {
-    "german":"hatten",
-    "english":"had"
-  },
-  {
-    "german":"kein",
-    "english":"nobody"
-  },
-  {
-    "german":"deutschen",
-    "english":"to German ones"
-  },
-  {
-    "german":"machen",
-    "english":"do"
-  },
-  {
-    "german":"lassen",
-    "english":"let"
-  },
-  {
-    "german":"Als",
-    "english":"As"
-  },
-  {
-    "german":"Unternehmen",
-    "english":"Undertake"
-  },
-  {
-    "german":"andere",
-    "english":"other"
-  },
-  {
-    "german":"ob dieses",
-    "english":"whether this"
-  },
-  {
-    "german":"steht",
-    "english":"stands"
-  },
-  {
-    "german":"dabei",
-    "english":"besides"
-  },
-  {
-    "german":"wegen",
-    "english":"because of"
-  },
-  {
-    "german":"weiter",
-    "english":"further"
-  },
-  {
-    "german":"denn",
-    "english":"since"
-  },
-  {
-    "german":"beiden",
-    "english":"both"
-  },
-  {
-    "german":"einmal",
-    "english":"once"
-  },
-  {
-    "german":"etwas",
-    "english":"something"
-  },
-  {
-    "german":"Wie",
-    "english":"How"
-  },
-  {
-    "german":"nichts",
-    "english":"nothing"
-  },
-  {
-    "german":"allerdings",
-    "english":"indeed"
-  },
-  {
-    "german":"vier",
-    "english":"four"
-  },
-  {
-    "german":"gut",
-    "english":"well"
-  },
-  {
-    "german":"viele",
-    "english":"many"
-  },
-  {
-    "german":"wo",
-    "english":"where"
-  },
-  {
-    "german":"viel",
-    "english":"a lot"
-  },
-  {
-    "german":"dort",
-    "english":"there"
-  },
-  {
-    "german":"alles",
-    "english":"everything"
-  },
-  {
-    "german":"Auf",
-    "english":"On"
-  },
-  {
-    "german":"wäre",
-    "english":"would be"
-  },
-  {
-    "german":"SPD*",
-    "english":"SPD*"
-  },
-  {
-    "german":"kommt",
-    "english":"comes"
-  },
-  {
-    "german":"vergangenen",
-    "english":"to the past"
-  },
-  {
-    "german":"denen",
-    "english":"to those"
-  },
-  {
-    "german":"fast",
-    "english":"almost"
-  },
-  {
-    "german":"fünf",
-    "english":"five"
-  },
-  {
-    "german":"könnte",
-    "english":"could"
-  },
-  {
-    "german":"nicht nur",
-    "english":"not only"
-  },
-  {
-    "german":"hätten",
-    "english":"would have"
-  },
-  {
-    "german":"Frau",
-    "english":"Woman"
-  },
-  {
-    "german":"Am",
-    "english":"In"
-  },
-  {
-    "german":"dafür",
-    "english":"for it"
-  },
-  {
-    "german":"kommen",
-    "english":"come"
-  },
-  {
-    "german":"diesen",
-    "english":"this"
-  },
-  {
-    "german":"letzten",
-    "english":"to the last"
-  },
-  {
-    "german":"zwar",
-    "english":"indeed"
-  },
-  {
-    "german":"Diese",
-    "english":"This"
-  },
-  {
-    "german":"großen",
-    "english":"to big ones"
-  },
-  {
-    "german":"dazu Von",
-    "english":"in addition From"
-  },
-  {
-    "german":"Mann",
-    "english":"Man"
-  },
-  {
-    "german":"Da",
-    "english":"There"
-  },
-  {
-    "german":"sollte",
-    "english":"should go"
-  },
-  {
-    "german":"würde",
-    "english":"would become"
-  },
-  {
-    "german":"also",
-    "english":"thus"
-  },
-  {
-    "german":"bisher",
-    "english":"up to now"
-  },
-  {
-    "german":"Leben",
-    "english":"Live"
-  },
-  {
-    "german":"Milliarden",
-    "english":"Billions"
-  },
-  {
-    "german":"Welt",
-    "english":"World"
-  },
-  {
-    "german":"Regierung",
-    "english":"Government"
-  },
-  {
-    "german":"konnte",
-    "english":"could"
-  },
-  {
-    "german":"ihrem",
-    "english":"to theirs"
-  },
-  {
-    "german":"Frauen",
-    "english":"Women"
-  },
-  {
-    "german":"während",
-    "english":"during"
-  },
-  {
-    "german":"Land",
-    "english":"Land"
-  },
-  {
-    "german":"zehn",
-    "english":"ten"
-  },
-  {
-    "german":"würden",
-    "english":"would become"
-  },
-  {
-    "german":"stehen",
-    "english":"stand"
-  },
-  {
-    "german":"ja USA",
-    "english":"the USA"
-  },
-  {
-    "german":"heißt",
-    "english":"is called"
-  },
-  {
-    "german":"dies",
-    "english":"this"
-  },
-  {
-    "german":"zurück",
-    "english":"back"
-  },
-  {
-    "german":"Kinder",
-    "english":"Children"
-  },
-  {
-    "german":"dessen",
-    "english":"of that"
-  },
-  {
-    "german":"ihnen",
-    "english":"to them"
-  },
-  {
-    "german":"deren",
-    "english":"of that"
-  },
-  {
-    "german":"sogar",
-    "english":"even"
-  },
-  {
-    "german":"Frage",
-    "english":"Question"
-  },
-  {
-    "german":"gewesen",
-    "english":""
-  },
-  {
-    "german":"erste",
-    "english":"first one"
-  },
-  {
-    "german":"gab",
-    "english":"gave"
-  },
-  {
-    "german":"liegt",
-    "english":"lies"
-  },
-  {
-    "german":"gar",
-    "english":"even"
-  },
-  {
-    "german":"davon",
-    "english":"of it"
-  },
-  {
-    "german":"gestern",
-    "english":"yesterday"
-  },
-  {
-    "german":"geben",
-    "english":"give"
-  },
-  {
-    "german":"Teil",
-    "english":"Part"
-  },
-  {
-    "german":"Polizei dass**",
-    "english":"Police that **"
-  },
-  {
-    "german":"hätte",
-    "english":"would have"
-  },
-  {
-    "german":"eigenen",
-    "english":"to own"
-  },
-  {
-    "german":"kaum",
-    "english":"barely"
-  },
-  {
-    "german":"sieht",
-    "english":"sees"
-  },
-  {
-    "german":"große",
-    "english":"big one"
-  },
-  {
-    "german":"Denn",
-    "english":"Since"
-  },
-  {
-    "german":"weitere",
-    "english":"other one"
-  },
-  {
-    "german":"Was",
-    "english":"What"
-  },
-  {
-    "german":"sehen",
-    "english":"see"
-  },
-  {
-    "german":"macht",
-    "english":"does"
-  },
-  {
-    "german":"Angaben",
-    "english":"Information"
-  },
-  {
-    "german":"weniger",
-    "english":"less"
-  },
-  {
-    "german":"gerade",
-    "english":"just"
-  },
-  {
-    "german":"läßt",
-    "english":"leaves"
-  },
-  {
-    "german":"Geld",
-    "english":"Money"
-  },
-  {
-    "german":"München",
-    "english":"Munich"
-  },
-  {
-    "german":"deutsche",
-    "english":"German one"
-  },
-  {
-    "german":"allen",
-    "english":"to all"
-  },
-  {
-    "german":"darauf wohl",
-    "english":"on it probably"
-  },
-  {
-    "german":"später",
-    "english":"later"
-  },
-  {
-    "german":"könne",
-    "english":"can"
-  },
-  {
-    "german":"deshalb",
-    "english":"therefore"
-  },
-  {
-    "german":"aller",
-    "english":"all"
-  },
-  {
-    "german":"kam",
-    "english":"came"
-  },
-  {
-    "german":"Arbeit",
-    "english":"Work"
-  },
-  {
-    "german":"mich",
-    "english":"me"
-  },
-  {
-    "german":"gegenüber",
-    "english":"towards"
-  },
-  {
-    "german":"nächsten",
-    "english":"to the next"
-  },
-  {
-    "german":"bleibt",
-    "english":"remains"
-  },
-  {
-    "german":"wenig",
-    "english":"a little"
-  },
-  {
-    "german":"lange",
-    "english":"long"
-  },
-  {
-    "german":"gemacht",
-    "english":"done"
-  },
-  {
-    "german":"Wer",
-    "english":"Who"
-  },
-  {
-    "german":"Dies",
-    "english":"This"
-  },
-  {
-    "german":"Fall",
-    "english":"Case"
-  },
-  {
-    "german":"mir",
-    "english":"to me"
-  },
-  {
-    "german":"gehen",
-    "english":"go"
-  },
-  {
-    "german":"Berliner",
-    "english":"Berliner"
-  },
-  {
-    "german":"mal",
-    "english":"sometimes"
-  },
-  {
-    "german":"Weg",
-    "english":"Away"
-  },
-  {
-    "german":"CDU*",
-    "english":"CDU*"
-  },
-  {
-    "german":"wollte",
-    "english":"wanted"
-  },
-  {
-    "german":"sechs",
-    "english":"six"
-  },
-  {
-    "german":"keinen",
-    "english":"nobody"
-  },
-  {
-    "german":"Woche",
-    "english":"Week"
-  },
-  {
-    "german":"dagegen",
-    "english":"against it"
-  },
-  {
-    "german":"alte",
-    "english":"old one"
-  },
-  {
-    "german":"möglich",
-    "english":"possibly"
-  },
-  {
-    "german":"gilt",
-    "english":"counts"
-  },
-  {
-    "german":"erklärte",
-    "english":"explained"
-  },
-  {
-    "german":"müsse",
-    "english":"must go"
-  },
-  {
-    "german":"Dabei",
-    "english":"Besides"
-  },
-  {
-    "german":"könnten",
-    "english":"could"
-  },
-  {
-    "german":"Geschichte",
-    "english":"History"
-  },
-  {
-    "german":"zusammen",
-    "english":"together"
-  },
-  {
-    "german":"finden",
-    "english":"find"
-  },
-  {
-    "german":"Tag",
-    "english":"Day"
-  },
-  {
-    "german":"Art erhalten",
-    "english":"Kind receive"
-  },
-  {
-    "german":"Man",
-    "english":"One"
-  },
-  {
-    "german":"Dollar",
-    "english":"Dollar"
-  },
-  {
-    "german":"Wochen",
-    "english":"Weeks"
-  },
-  {
-    "german":"jeder",
-    "english":"everybody"
-  },
-  {
-    "german":"nie",
-    "english":"never"
-  },
-  {
-    "german":"bleiben",
-    "english":"remain"
-  },
-  {
-    "german":"besonders",
-    "english":"especially"
-  },
-  {
-    "german":"Jahres",
-    "english":"Of year"
-  },
-  {
-    "german":"Deutschen",
-    "english":"Germans"
-  },
-  {
-    "german":"Zu",
-    "english":"To"
-  },
-  {
-    "german":"zunächst",
-    "english":"at first"
-  },
-  {
-    "german":"derzeit",
-    "english":"nowadays"
-  },
-  {
-    "german":"allein",
-    "english":"only"
-  },
-  {
-    "german":"deutlich",
-    "english":"clearly"
-  },
-  {
-    "german":"Entwicklung",
-    "english":"Development"
-  },
-  {
-    "german":"weiß**",
-    "english":"know **"
-  },
-  {
-    "german":"einige",
-    "english":"some"
-  },
-  {
-    "german":"sollten Präsident",
-    "english":"should go president"
-  },
-  {
-    "german":"geworden",
-    "english":"become"
-  },
-  {
-    "german":"statt",
-    "english":"instead of"
-  },
-  {
-    "german":"Bonn",
-    "english":"Bonn"
-  },
-  {
-    "german":"Platz",
-    "english":"Place"
-  },
-  {
-    "german":"inzwischen",
-    "english":"in the meantime"
-  },
-  {
-    "german":"Nur",
-    "english":"Only"
-  },
-  {
-    "german":"Freitag",
-    "english":"Friday"
-  },
-  {
-    "german":"Um",
-    "english":"Around"
-  },
-  {
-    "german":"pro",
-    "english":"per"
-  },
-  {
-    "german":"seines",
-    "english":"his"
-  },
-  {
-    "german":"Damit",
-    "english":"With it"
-  },
-  {
-    "german":"Montag",
-    "english":"Monday"
-  },
-  {
-    "german":"Europa",
-    "english":"Europe"
-  },
-  {
-    "german":"schließlich",
-    "english":"in the end"
-  },
-  {
-    "german":"Sonntag",
-    "english":"Sunday"
-  },
-  {
-    "german":"einfach",
-    "english":"simply"
-  },
-  {
-    "german":"gehört",
-    "english":"belongs"
-  },
-  {
-    "german":"eher",
-    "english":"rather"
-  },
-  {
-    "german":"oft Zahl",
-    "english":"often number"
-  },
-  {
-    "german":"neben",
-    "english":"beside"
-  },
-  {
-    "german":"hält",
-    "english":"holds"
-  },
-  {
-    "german":"weit",
-    "english":"far"
-  },
-  {
-    "german":"Partei",
-    "english":"Party"
-  },
-  {
-    "german":"meisten",
-    "english":"to most"
-  },
-  {
-    "german":"Thema",
-    "english":"Subject"
-  },
-  {
-    "german":"zeigt",
-    "english":"points"
-  },
-  {
-    "german":"Politik",
-    "english":"Policy"
-  },
-  {
-    "german":"Aus",
-    "english":"From"
-  },
-  {
-    "german":"zweiten",
-    "english":"to second ones"
-  },
-  {
-    "german":"January",
-    "english":"January"
-  },
-  {
-    "german":"insgesamt",
-    "english":"all together"
-  },
-  {
-    "german":"je",
-    "english":"ever"
-  },
-  {
-    "german":"mußte",
-    "english":"must go"
-  },
-  {
-    "german":"Anfang",
-    "english":"Beginning"
-  },
-  {
-    "german":"hinter",
-    "english":"behind"
-  },
-  {
-    "german":"ebenfalls",
-    "english":"likewise"
-  },
-  {
-    "german":"ging",
-    "english":"went"
-  },
-  {
-    "german":"Mitarbeiter darüber",
-    "english":"Employee about that"
-  },
-  {
-    "german":"vielen",
-    "english":"to many"
-  },
-  {
-    "german":"Ziel",
-    "english":"Purpose"
-  },
-  {
-    "german":"darf",
-    "english":"May"
-  },
-  {
-    "german":"Seite",
-    "english":"Side"
-  },
-  {
-    "german":"fest",
-    "english":"firmly"
-  },
-  {
-    "german":"hin",
-    "english":"there"
-  },
-  {
-    "german":"erklärt",
-    "english":"explains"
-  },
-  {
-    "german":"Namen",
-    "english":"Names"
-  },
-  {
-    "german":"Haus",
-    "english":"House"
-  },
-  {
-    "german":"An",
-    "english":"In"
-  },
-  {
-    "german":"Frankfurt",
-    "english":"Frankfurt"
-  },
-  {
-    "german":"Gesellschaft",
-    "english":"Society"
-  },
-  {
-    "german":"Mittwoch",
-    "english":"Wednesday"
-  },
-  {
-    "german":"damals",
-    "english":"at that time"
-  },
-  {
-    "german":"Dienstag",
-    "english":"Tuesday"
-  },
-  {
-    "german":"Hilfe",
-    "english":"Help"
-  },
-  {
-    "german":"Mai",
-    "english":"May"
-  },
-  {
-    "german":"Markt",
-    "english":"Market"
-  },
-  {
-    "german":"Seit",
-    "english":"Since"
-  },
-  {
-    "german":"Tage",
-    "english":"Days"
-  },
-  {
-    "german":"Donnerstag",
-    "english":"Thursday"
-  },
-  {
-    "german":"halten",
-    "english":"hold"
-  },
-  {
-    "german":"gleich",
-    "english":"immediately"
-  },
-  {
-    "german":"nehmen",
-    "english":"take"
-  },
-  {
-    "german":"solche",
-    "english":"those"
-  },
-  {
-    "german":"Entscheidung",
-    "english":"Decision"
-  },
-  {
-    "german":"besser",
-    "english":"better"
-  },
-  {
-    "german":"alte",
-    "english":"old one"
-  },
-  {
-    "german":"Leute",
+    "german":"Menschen",
     "english":"People"
   },
   {
-    "german":"Ergebnis",
-    "english":"Result"
-  },
-  {
-    "german":"Samstag",
-    "english":"Saturday"
-  },
-  {
-    "german":"Daß",
-    "english":"That"
-  },
-  {
-    "german":"sagen",
-    "english":"say"
-  },
-  {
-    "german":"System",
-    "english":"System"
-  },
-  {
-    "german":"März",
-    "english":"March"
-  },
-  {
-    "german":"tun",
-    "english":"act"
-  },
-  {
-    "german":"Monaten",
-    "english":"To months"
-  },
-  {
-    "german":"kleinen",
-    "english":"to small ones"
-  },
-  {
-    "german":"lang Nicht",
-    "english":"long Not"
-  },
-  {
-    "german":"knapp",
-    "english":"briefly"
-  },
-  {
-    "german":"bringen",
-    "english":"bring"
-  },
-  {
-    "german":"wissen",
-    "english":"know"
-  },
-  {
-    "german":"Kosten",
-    "english":"Cost"
-  },
-  {
-    "german":"Erfolg",
-    "english":"Success"
-  },
-  {
-    "german":"bekannt",
-    "english":"famously"
-  },
-  {
-    "german":"findet",
-    "english":"finds"
-  },
-  {
-    "german":"daran",
-    "english":"in it"
-  },
-  {
-    "german":"künftig",
-    "english":"from now on"
-  },
-  {
-    "german":"wer",
-    "english":"who"
-  },
-  {
-    "german":"acht",
-    "english":"eight"
-  },
-  {
-    "german":"Grünen",
-    "english":"Green"
-  },
-  {
-    "german":"schnell",
-    "english":"fast"
-  },
-  {
-    "german":"Grund",
-    "english":"Reason"
-  },
-  {
-    "german":"scheint",
-    "english":"appears"
-  },
-  {
-    "german":"Zukunft",
-    "english":"Future"
-  },
-  {
-    "german":"Stuttgart",
-    "english":"Stuttgart"
-  },
-  {
-    "german":"bin",
-    "english":"am"
-  },
-  {
-    "german":"liegen politischen",
-    "english":"lie to political ones"
-  },
-  {
-    "german":"Gruppe",
-    "english":"Group"
-  },
-  {
-    "german":"Rolle",
-    "english":"Role"
-  },
-  {
-    "german":"stellt",
-    "english":"it puts"
-  },
-  {
-    "german":"Juni",
-    "english":"June"
-  },
-  {
-    "german":"sieben",
-    "english":"seven"
-  },
-  {
-    "german":"September",
-    "english":"September"
-  },
-  {
-    "german":"nämlich",
-    "english":"since"
-  },
-  {
-    "german":"Männer",
-    "english":"Men"
-  },
-  {
-    "german":"Oktober",
-    "english":"October"
-  },
-  {
-    "german":"eigene",
-    "english":"own"
-  },
-  {
-    "german":"Dann",
-    "english":"Then"
-  },
-  {
-    "german":"gegeben",
-    "english":"given"
-  },
-  {
-    "german":"Außerdem",
-    "english":"In addition"
-  },
-  {
-    "german":"Stunden",
-    "english":"hours"
-  },
-  {
-    "german":"eigentlich",
-    "english":"actually"
-  },
-  {
-    "german":"Meter",
-    "english":"Meter"
-  },
-  {
-    "german":"ließ Probleme",
-    "english":"left problems"
-  },
-  {
-    "german":"vielleicht",
-    "english":"maybe"
-  },
-  {
-    "german":"ebenso",
-    "english":"also"
-  },
-  {
-    "german":"Bereich",
-    "english":"Area"
-  },
-  {
-    "german":"zum Beispiel",
-    "english":"for example"
-  },
-  {
-    "german":"Bis",
-    "english":"To"
-  },
-  {
-    "german":"Höhe",
-    "english":"Height"
-  },
-  {
-    "german":"Familie",
-    "english":"Family"
-  },
-  {
-    "german":"Während",
-    "english":"During"
-  },
-  {
-    "german":"Bild",
-    "english":"Picture"
-  },
-  {
-    "german":"Ländern",
-    "english":"To lands"
-  },
-  {
-    "german":"Informationen",
-    "english":"Information"
-  },
-  {
-    "german":"Frankreich",
-    "english":"France"
-  },
-  {
-    "german":"Tagen",
-    "english":"Meet"
-  },
-  {
-    "german":"schwer",
-    "english":"hard"
-  },
-  {
-    "german":"zuvor",
-    "english":"before"
-  },
-  {
-    "german":"Vor",
-    "english":"Before"
-  },
-  {
-    "german":"genau",
-    "english":"exactly"
-  },
-  {
-    "german":"April",
-    "english":"April"
-  },
-  {
-    "german":"stellen neu",
-    "english":"put anew"
-  },
-  {
-    "german":"erwartet",
-    "english":"expects"
-  },
-  {
-    "german":"Hamburg",
-    "english":"Hamburg"
-  },
-  {
-    "german":"sicher",
-    "english":"certainly"
-  },
-  {
-    "german":"führen",
-    "english":"lead"
-  },
-  {
-    "german":"Mal",
-    "english":"Time"
-  },
-  {
-    "german":"Über",
-    "english":""
-  },
-  {
-    "german":"mehrere",
-    "english":"several"
-  },
-  {
-    "german":"Wirtschaft",
-    "english":"Economy"
-  },
-  {
-    "german":"Mio**",
-    "english":"Mil. **"
-  },
-  {
-    "german":"Programm",
-    "english":"Program"
-  },
-  {
-    "german":"offenbar",
-    "english":"apparently"
-  },
-  {
-    "german":"Hier",
-    "english":"Here"
-  },
-  {
-    "german":"weiteren",
-    "english":"to other ones"
-  },
-  {
-    "german":"natürlich",
-    "english":"of course"
-  },
-  {
-    "german":"konnten",
-    "english":"could"
-  },
-  {
-    "german":"stark",
-    "english":"strongly"
-  },
-  {
-    "german":"Dezember",
-    "english":"December"
-  },
-  {
-    "german":"Juli",
-    "english":"July"
-  },
-  {
-    "german":"ganze",
-    "english":"whole one"
-  },
-  {
-    "german":"kommenden",
-    "english":"to the coming"
-  },
-  {
-    "german":"Kunden",
-    "english":"Customers"
-  },
-  {
-    "german":"bekommen",
-    "english":"agree"
-  },
-  {
-    "german":"eben",
-    "english":"just"
-  },
-  {
-    "german":"kleine",
-    "english":"small one"
-  },
-  {
-    "german":"trotz",
-    "english":"resist"
-  },
-  {
-    "german":"wirklich",
-    "english":"really"
-  },
-  {
-    "german":"Lage",
-    "english":"Position"
-  },
-  {
-    "german":"Länder",
-    "english":"Lands"
-  },
-  {
-    "german":"leicht",
-    "english":"easily"
-  },
-  {
-    "german":"gekommen",
-    "english":"come"
-  },
-  {
-    "german":"Spiel",
-    "english":"Play"
-  },
-  {
-    "german":"laut",
-    "english":"loudly"
-  },
-  {
-    "german":"November",
-    "english":"November"
-  },
-  {
-    "german":"kurz",
-    "english":"briefly"
-  },
-  {
-    "german":"politische",
-    "english":"political one"
-  },
-  {
-    "german":"führt",
-    "english":"leads"
-  },
-  {
-    "german":"innerhalb",
-    "english":"within"
-  },
-  {
-    "german":"unsere",
-    "english":"ours"
-  },
-  {
-    "german":"meint immer wieder",
-    "english":"means over and over again"
-  },
-  {
-    "german":"Form",
-    "english":"Form"
-  },
-  {
-    "german":"Münchner",
-    "english":"Inhabitant of Munich"
-  },
-  {
-    "german":"AG*",
-    "english":"AG*"
-  },
-  {
-    "german":"anders",
-    "english":"differently"
-  },
-  {
-    "german":"ihres",
-    "english":"theirs"
-  },
-  {
-    "german":"völlig",
-    "english":"completely"
-  },
-  {
-    "german":"beispielsweise",
-    "english":"for instance"
-  },
-  {
-    "german":"gute",
-    "english":"good one"
-  },
-  {
-    "german":"bislang",
-    "english":"up to now"
-  },
-  {
-    "german":"August",
-    "english":"August"
-  },
-  {
-    "german":"Hand",
-    "english":"Hand"
-  },
-  {
-    "german":"jede",
-    "english":"everybody"
-  },
-  {
-    "german":"GmbH**",
-    "english":"Ltd **"
-  },
-  {
-    "german":"Film",
-    "english":"Film"
-  },
-  {
-    "german":"Minuten",
-    "english":"Minutes"
-  },
-  {
-    "german":"erreicht",
-    "english":"reaches"
-  },
-  {
-    "german":"beide",
-    "english":"both"
-  },
-  {
-    "german":"Musik",
-    "english":"Music"
-  },
-  {
-    "german":"Kritik Mitte",
-    "english":"Criticism middle"
-  },
-  {
-    "german":"Verfügung",
-    "english":"Possession"
-  },
-  {
-    "german":"Buch",
-    "english":"Book"
-  },
-  {
-    "german":"dürfen",
-    "english":"May"
-  },
-  {
-    "german":"Unter",
-    "english":"Under"
-  },
-  {
-    "german":"jeweils",
-    "english":"in each case"
-  },
-  {
-    "german":"einigen",
-    "english":"to some"
-  },
-  {
-    "german":"Zum",
-    "english":"To"
-  },
-  {
-    "german":"Umsatz",
-    "english":"Turnover"
-  },
-  {
-    "german":"spielen",
-    "english":"play"
-  },
-  {
-    "german":"Daten",
-    "english":"Data"
-  },
-  {
-    "german":"welche",
-    "english":"which"
-  },
-  {
-    "german":"müßten",
-    "english":"must go"
-  },
-  {
-    "german":"hieß",
-    "english":"was called"
-  },
-  {
-    "german":"paar",
-    "english":"pair of"
-  },
-  {
-    "german":"nachdem",
-    "english":"after"
-  },
-  {
-    "german":"Kunst",
-    "english":"Art"
-  },
-  {
-    "german":"Euro",
-    "english":"euro"
-  },
-  {
-    "german":"gebracht",
-    "english":"brought"
-  },
-  {
-    "german":"Problem Noch",
-    "english":"Problem Still"
-  },
-  {
-    "german":"jeden",
-    "english":"everybody"
-  },
-  {
-    "german":"Ihre",
-    "english":"Theirs"
-  },
-  {
-    "german":"Sprecher",
-    "english":"Speaker"
-  },
-  {
-    "german":"recht",
-    "english":"surely"
-  },
-  {
-    "german":"erneut",
-    "english":"once more"
-  },
-  {
-    "german":"längst",
-    "english":"for a long time"
-  },
-  {
-    "german":"europäischen",
-    "english":"to European ones"
-  },
-  {
-    "german":"Sein",
-    "english":"Be"
-  },
-  {
-    "german":"Eltern",
-    "english":"Parents"
-  },
-  {
-    "german":"Beginn",
-    "english":"Beginning"
-  },
-  {
-    "german":"besteht",
-    "english":"exists"
-  },
-  {
-    "german":"Seine",
-    "english":"His"
-  },
-  {
-    "german":"der",
-    "english":"the"
-  },
-  {
-    "german":"die",
-    "english":"the"
-  },
-  {
-    "german":"und",
-    "english":"a"
-  },
-  {
-    "german":"in",
-    "english":"at"
-  },
-  {
-    "german":"den",
-    "english":"to"
-  },
-  {
-    "german":"von",
-    "english":"from"
-  },
-  {
-    "german":"zu",
-    "english":"to"
-  },
-  {
-    "german":"das",
-    "english":"the"
-  },
-  {
-    "german":"mit",
-    "english":"with"
-  },
-  {
-    "german":"sich",
-    "english":"oneself; himself; herself; itself; themselves"
-  },
-  {
-    "german":"des",
-    "english":"the"
-  },
-  {
-    "german":"auf",
-    "english":"on"
-  },
-  {
-    "german":"für",
-    "english":"for"
-  },
-  {
-    "german":"ist",
-    "english":"is"
-  },
-  {
-    "german":"im",
-    "english":"in the"
-  },
-  {
-    "german":"dem",
-    "english":"that"
-  },
-  {
-    "german":"nicht",
-    "english":"not"
-  },
-  {
-    "german":"ein",
-    "english":"on/off"
-  },
-  {
-    "german":"Die",
-    "english":""
-  },
-  {
-    "german":"eine",
-    "english":"somebody"
-  },
-  {
-    "german":"als",
-    "english":"than"
-  },
-  {
-    "german":"auch",
-    "english":"also"
-  },
-  {
-    "german":"es",
-    "english":"is"
-  },
-  {
-    "german":"an",
-    "english":"in"
-  },
-  {
-    "german":"werden",
-    "english":"become"
-  },
-  {
-    "german":"aus",
-    "english":"from"
-  },
-  {
-    "german":"er",
-    "english":"he"
-  },
-  {
-    "german":"hat",
-    "english":"has"
-  },
-  {
-    "german":"daß*",
-    "english":"this?"
-  },
-  {
-    "german":"sie",
-    "english":"they"
-  },
-  {
-    "german":"nach",
-    "english":"after"
-  },
-  {
-    "german":"wird",
-    "english":"becomes"
-  },
-  {
-    "german":"bei",
-    "english":"with"
-  },
-  {
-    "german":"einer",
-    "english":"one"
-  },
-  {
-    "german":"Der",
-    "english":"one"
-  },
-  {
-    "german":"um",
-    "english":"around"
-  },
-  {
-    "german":"am",
-    "english":"in"
-  },
-  {
-    "german":"sind",
-    "english":"are"
-  },
-  {
-    "german":"noch",
-    "english":"still"
-  },
-  {
-    "german":"wie",
-    "english":"how"
-  },
-  {
-    "german":"einem",
-    "english":"to one"
-  },
-  {
-    "german":"über",
-    "english":""
-  },
-  {
-    "german":"einen",
-    "english":"one"
-  },
-  {
-    "german":"Das",
-    "english":"this"
-  },
-  {
-    "german":"so",
-    "english":"so"
-  },
-  {
-    "german":"Sie",
-    "english":"they"
-  },
-  {
-    "german":"zum",
-    "english":"to"
-  },
-  {
-    "german":"war",
-    "english":"was"
-  },
-  {
-    "german":"haben",
-    "english":"have"
-  },
-  {
-    "german":"nur",
-    "english":"only"
-  },
-  {
-    "german":"oder",
-    "english":"or"
-  },
-  {
-    "german":"aber",
-    "english":"but"
-  },
-  {
-    "german":"vor",
-    "english":"before"
-  },
-  {
-    "german":"zur",
-    "english":"to"
-  },
-  {
-    "german":"bis",
-    "english":"to"
-  },
-  {
-    "german":"mehr",
-    "english":"more"
-  },
-  {
-    "german":"durch",
-    "english":"by"
-  },
-  {
-    "german":"man",
-    "english":"one"
-  },
-  {
-    "german":"sein",
-    "english":"be"
-  },
-  {
-    "german":"wurde",
-    "english":"became"
-  },
-  {
-    "german":"sei",
-    "english":"is"
-  },
-  {
-    "german":"In",
-    "english":"in"
-  },
-  {
-    "german":"Prozent",
-    "english":"percent"
-  },
-  {
-    "german":"hatte",
-    "english":"had"
-  },
-  {
-    "german":"kann",
-    "english":"can"
-  },
-  {
-    "german":"gegen",
-    "english":"against"
-  },
-  {
-    "german":"vom",
-    "english":"from"
-  },
-  {
-    "german":"können",
-    "english":"can"
-  },
-  {
-    "german":"schon",
-    "english":"already"
-  },
-  {
-    "german":"wenn",
-    "english":"if"
-  },
-  {
-    "german":"habe",
-    "english":"has"
-  },
-  {
-    "german":"seine",
-    "english":"his"
-  },
-  {
-    "german":"Mark**",
-    "english":""
-  },
-  {
-    "german":"ihre",
-    "english":"theirs"
-  },
-  {
-    "german":"dann",
-    "english":"then"
-  },
-  {
-    "german":"unter",
-    "english":"under"
-  },
-  {
-    "german":"wir",
-    "english":"we"
-  },
-  {
-    "german":"soll",
-    "english":"should go"
-  },
-  {
-    "german":"ich",
-    "english":"I"
-  },
-  {
-    "german":"eines",
-    "english":"one"
-  },
-  {
-    "german":"Es",
-    "english":"it"
-  },
-  {
-    "german":"Jahr",
-    "english":"year"
-  },
-  {
-    "german":"zwei",
-    "english":"two"
-  },
-  {
-    "german":"Jahren",
-    "english":"To years"
-  },
-  {
-    "german":"diese",
-    "english":"this"
-  },
-  {
-    "german":"dieser",
-    "english":"this"
-  },
-  {
-    "german":"wieder",
-    "english":"again"
-  },
-  {
-    "german":"keine",
-    "english":"none"
-  },
-  {
-    "german":"Uhr",
-    "english":"Clock"
-  },
-  {
-    "german":"seiner",
-    "english":"his"
-  },
-  {
-    "german":"worden",
-    "english":"become"
-  },
-  {
-    "german":"Und",
-    "english":"And"
-  },
-  {
-    "german":"will",
-    "english":"wants"
-  },
-  {
-    "german":"zwischen",
-    "english":"between"
-  },
-  {
-    "german":"Im",
-    "english":"In"
-  },
-  {
-    "german":"immer",
-    "english":"always"
-  },
-  {
-    "german":"Millionen",
-    "english":"Millions"
-  },
-  {
-    "german":"Ein",
-    "english":"One"
-  },
-  {
-    "german":"was",
-    "english":"what"
-  },
-  {
-    "german":"sagte",
-    "english":"said"
-  },
-  {
-    "german":"Er",
-    "english":"He"
-  },
-  {
-    "german":"gibt",
-    "english":"gives"
-  },
-  {
-    "german":"alle",
-    "english":"everything"
-  },
-  {
-    "german":"DM*",
-    "english":"DM*"
-  },
-  {
-    "german":"diesem",
-    "english":"to this"
-  },
-  {
-    "german":"seit",
-    "english":"since"
-  },
-  {
-    "german":"muß",
-    "english":"must go"
-  },
-  {
-    "german":"wurden",
-    "english":"became"
-  },
-  {
-    "german":"beim",
-    "english":"with"
-  },
-  {
-    "german":"doch",
-    "english":"however"
-  },
-  {
-    "german":"jetzt",
-    "english":"now"
-  },
-  {
-    "german":"waren",
-    "english":"were"
-  },
-  {
-    "german":"drei",
-    "english":"three"
-  },
-  {
-    "german":"Jahre",
-    "english":"Years"
-  },
-  {
-    "german":"Mit",
-    "english":"With"
-  },
-  {
-    "german":"neue",
-    "english":"new one"
-  },
-  {
-    "german":"neuen",
-    "english":"to new ones"
-  },
-  {
-    "german":"damit",
-    "english":"with it"
-  },
-  {
-    "german":"bereits",
-    "english":"already"
-  },
-  {
-    "german":"da",
-    "english":"there"
-  },
-  {
-    "german":"Auch",
-    "english":"Also"
-  },
-  {
-    "german":"ihr",
-    "english":"you"
-  },
-  {
-    "german":"seinen",
-    "english":"his"
-  },
-  {
-    "german":"müssen",
-    "english":"must go"
-  },
-  {
-    "german":"ab",
-    "english":"from"
-  },
-  {
-    "german":"ihrer",
-    "english":"theirs"
-  },
-  {
-    "german":"Nach",
-    "english":"After"
-  },
-  {
-    "german":"ohne",
-    "english":"without"
-  },
-  {
-    "german":"sondern",
-    "english":"but"
-  },
-  {
-    "german":"selbst",
-    "english":"even"
-  },
-  {
-    "german":"ersten",
-    "english":"to first ones"
-  },
-  {
-    "german":"nun",
-    "english":"now"
-  },
-  {
-    "german":"etwa",
-    "english":"possibly"
-  },
-  {
-    "german":"Bei",
-    "english":"With"
-  },
-  {
-    "german":"heute",
-    "english":"today"
-  },
-  {
-    "german":"ihren",
-    "english":"theirs"
-  },
-  {
-    "german":"weil",
-    "english":"because"
-  },
-  {
-    "german":"ihm",
-    "english":"to him"
-  },
-  {
-    "german":"seien",
-    "english":"are"
-  },
-  {
-    "german":"Menschen Deutschland",
-    "english":"People Germany"
+    "german":"Deutschland",
+    "english":"Germany"
   },
   {
     "german":"anderen",
-    "english":"to others"
+    "english":"other"
   },
   {
     "german":"werde",
-    "english":"becomes"
+    "english":"will"
   },
   {
     "german":"Ich",
@@ -2825,11 +585,11 @@
   },
   {
     "german":"Eine",
-    "english":"One"
+    "english":"An"
   },
   {
     "german":"rund",
-    "english":"around"
+    "english":"about"
   },
   {
     "german":"Für",
@@ -2857,11 +617,11 @@
   },
   {
     "german":"sollen",
-    "english":"should go"
+    "english":"must"
   },
   {
     "german":"ins",
-    "english":"in this"
+    "english":"in the"
   },
   {
     "german":"Wenn",
@@ -2876,8 +636,12 @@
     "english":"his"
   },
   {
-    "german":"uns Stadt",
-    "english":"we town"
+    "german":"uns",
+    "english":"us"
+  },
+  {
+    "german":"Stadt",
+    "english":"City"
   },
   {
     "german":"geht",
@@ -2885,11 +649,11 @@
   },
   {
     "german":"Doch",
-    "english":"However"
+    "english":"Yet"
   },
   {
     "german":"sehr",
-    "english":"very much"
+    "english":"very"
   },
   {
     "german":"hier",
@@ -2897,7 +661,7 @@
   },
   {
     "german":"ganz",
-    "english":"completely"
+    "english":"all"
   },
   {
     "german":"erst",
@@ -2913,11 +677,11 @@
   },
   {
     "german":"vor allem",
-    "english":"above all"
+    "english":"particularly"
   },
   {
     "german":"sowie",
-    "english":"as well as"
+    "english":"such as"
   },
   {
     "german":"hatten",
@@ -2925,15 +689,15 @@
   },
   {
     "german":"kein",
-    "english":"nobody"
+    "english":"no"
   },
   {
     "german":"deutschen",
-    "english":"to German ones"
+    "english":"German"
   },
   {
     "german":"machen",
-    "english":"do"
+    "english":"make"
   },
   {
     "german":"lassen",
@@ -2941,19 +705,23 @@
   },
   {
     "german":"Als",
-    "english":"As"
+    "english":"Than"
   },
   {
     "german":"Unternehmen",
-    "english":"Undertake"
+    "english":"Business"
   },
   {
     "german":"andere",
     "english":"other"
   },
   {
-    "german":"ob dieses",
-    "english":"whether this"
+    "german":"ob",
+    "english":"whether"
+  },
+  {
+    "german":"dieses",
+    "english":"this"
   },
   {
     "german":"steht",
@@ -2961,11 +729,11 @@
   },
   {
     "german":"dabei",
-    "english":"besides"
+    "english":"there"
   },
   {
     "german":"wegen",
-    "english":"because of"
+    "english":"because"
   },
   {
     "german":"weiter",
@@ -2973,15 +741,15 @@
   },
   {
     "german":"denn",
-    "english":"since"
+    "english":"because"
   },
   {
     "german":"beiden",
-    "english":"both"
+    "english":"two"
   },
   {
     "german":"einmal",
-    "english":"once"
+    "english":"one day"
   },
   {
     "german":"etwas",
@@ -2997,7 +765,7 @@
   },
   {
     "german":"allerdings",
-    "english":"indeed"
+    "english":"though"
   },
   {
     "german":"vier",
@@ -3005,7 +773,7 @@
   },
   {
     "german":"gut",
-    "english":"well"
+    "english":"good"
   },
   {
     "german":"viele",
@@ -3017,7 +785,7 @@
   },
   {
     "german":"viel",
-    "english":"a lot"
+    "english":"a lot of"
   },
   {
     "german":"dort",
@@ -3029,15 +797,15 @@
   },
   {
     "german":"Auf",
-    "english":"On"
+    "english":"To"
   },
   {
     "german":"wäre",
-    "english":"would be"
+    "english":"would"
   },
   {
-    "german":"SPD*",
-    "english":"SPD*"
+    "german":"SPD",
+    "english":"SPD"
   },
   {
     "german":"kommt",
@@ -3045,11 +813,11 @@
   },
   {
     "german":"vergangenen",
-    "english":"to the past"
+    "english":"past"
   },
   {
     "german":"denen",
-    "english":"to those"
+    "english":"to whom"
   },
   {
     "german":"fast",
@@ -3069,19 +837,19 @@
   },
   {
     "german":"hätten",
-    "english":"would have"
+    "english":"would"
   },
   {
     "german":"Frau",
-    "english":"Woman"
+    "english":"Ms"
   },
   {
     "german":"Am",
-    "english":"In"
+    "english":"On the"
   },
   {
     "german":"dafür",
-    "english":"for it"
+    "english":"for this"
   },
   {
     "german":"kommen",
@@ -3093,7 +861,7 @@
   },
   {
     "german":"letzten",
-    "english":"to the last"
+    "english":"last"
   },
   {
     "german":"zwar",
@@ -3105,11 +873,15 @@
   },
   {
     "german":"großen",
-    "english":"to big ones"
+    "english":"great"
   },
   {
-    "german":"dazu Von",
-    "english":"in addition From"
+    "german":"dazu",
+    "english":"to"
+  },
+  {
+    "german":"Von",
+    "english":"From"
   },
   {
     "german":"Mann",
@@ -3117,15 +889,15 @@
   },
   {
     "german":"Da",
-    "english":"There"
+    "english":"Because"
   },
   {
     "german":"sollte",
-    "english":"should go"
+    "english":"should"
   },
   {
     "german":"würde",
-    "english":"would become"
+    "english":"would"
   },
   {
     "german":"also",
@@ -3133,15 +905,15 @@
   },
   {
     "german":"bisher",
-    "english":"up to now"
+    "english":"so far"
   },
   {
     "german":"Leben",
-    "english":"Live"
+    "english":"Life"
   },
   {
     "german":"Milliarden",
-    "english":"Billions"
+    "english":"Billion"
   },
   {
     "german":"Welt",
@@ -3157,7 +929,7 @@
   },
   {
     "german":"ihrem",
-    "english":"to theirs"
+    "english":"their"
   },
   {
     "german":"Frauen",
@@ -3165,11 +937,11 @@
   },
   {
     "german":"während",
-    "english":"during"
+    "english":"while"
   },
   {
     "german":"Land",
-    "english":"Land"
+    "english":"Country"
   },
   {
     "german":"zehn",
@@ -3177,19 +949,23 @@
   },
   {
     "german":"würden",
-    "english":"would become"
+    "english":"would"
   },
   {
     "german":"stehen",
     "english":"stand"
   },
   {
-    "german":"ja USA",
-    "english":"the USA"
+    "german":"ja",
+    "english":"yes"
+  },
+  {
+    "german":"USA",
+    "english":"USA"
   },
   {
     "german":"heißt",
-    "english":"is called"
+    "english":"means"
   },
   {
     "german":"dies",
@@ -3205,15 +981,15 @@
   },
   {
     "german":"dessen",
-    "english":"of that"
+    "english":"whose"
   },
   {
     "german":"ihnen",
-    "english":"to them"
+    "english":"them"
   },
   {
     "german":"deren",
-    "english":"of that"
+    "english":"their"
   },
   {
     "german":"sogar",
@@ -3225,27 +1001,27 @@
   },
   {
     "german":"gewesen",
-    "english":""
+    "english":"been"
   },
   {
     "german":"erste",
-    "english":"first one"
+    "english":"first"
   },
   {
     "german":"gab",
-    "english":"gave"
+    "english":"were"
   },
   {
     "german":"liegt",
-    "english":"lies"
+    "english":"is"
   },
   {
     "german":"gar",
-    "english":"even"
+    "english":"at all"
   },
   {
     "german":"davon",
-    "english":"of it"
+    "english":"thereof"
   },
   {
     "german":"gestern",
@@ -3260,16 +1036,20 @@
     "english":"Part"
   },
   {
-    "german":"Polizei dass**",
-    "english":"Police that **"
+    "german":"Polizei",
+    "english":"Police"
+  },
+  {
+    "german":"dass",
+    "english":"that"
   },
   {
     "german":"hätte",
-    "english":"would have"
+    "english":"would"
   },
   {
     "german":"eigenen",
-    "english":"to own"
+    "english":"own"
   },
   {
     "german":"kaum",
@@ -3277,19 +1057,19 @@
   },
   {
     "german":"sieht",
-    "english":"sees"
+    "english":"looks"
   },
   {
     "german":"große",
-    "english":"big one"
+    "english":"great"
   },
   {
     "german":"Denn",
-    "english":"Since"
+    "english":"Because"
   },
   {
     "german":"weitere",
-    "english":"other one"
+    "english":"other"
   },
   {
     "german":"Was",
@@ -3301,7 +1081,7 @@
   },
   {
     "german":"macht",
-    "english":"does"
+    "english":"makes"
   },
   {
     "german":"Angaben",
@@ -3313,7 +1093,7 @@
   },
   {
     "german":"gerade",
-    "english":"just"
+    "english":"straight"
   },
   {
     "german":"läßt",
@@ -3329,15 +1109,19 @@
   },
   {
     "german":"deutsche",
-    "english":"German one"
+    "english":"German"
   },
   {
     "german":"allen",
-    "english":"to all"
+    "english":"all"
   },
   {
-    "german":"darauf wohl",
-    "english":"on it probably"
+    "german":"darauf",
+    "english":"thereon"
+  },
+  {
+    "german":"wohl",
+    "english":"probably"
   },
   {
     "german":"später",
@@ -3345,11 +1129,11 @@
   },
   {
     "german":"könne",
-    "english":"can"
+    "english":"could"
   },
   {
     "german":"deshalb",
-    "english":"therefore"
+    "english":"that's why"
   },
   {
     "german":"aller",
@@ -3361,7 +1145,7 @@
   },
   {
     "german":"Arbeit",
-    "english":"Work"
+    "english":"Working"
   },
   {
     "german":"mich",
@@ -3369,11 +1153,11 @@
   },
   {
     "german":"gegenüber",
-    "english":"towards"
+    "english":"with respect to"
   },
   {
     "german":"nächsten",
-    "english":"to the next"
+    "english":"next"
   },
   {
     "german":"bleibt",
@@ -3381,7 +1165,7 @@
   },
   {
     "german":"wenig",
-    "english":"a little"
+    "english":"not much"
   },
   {
     "german":"lange",
@@ -3389,7 +1173,7 @@
   },
   {
     "german":"gemacht",
-    "english":"done"
+    "english":"made"
   },
   {
     "german":"Wer",
@@ -3405,7 +1189,7 @@
   },
   {
     "german":"mir",
-    "english":"to me"
+    "english":"me"
   },
   {
     "german":"gehen",
@@ -3417,15 +1201,15 @@
   },
   {
     "german":"mal",
-    "english":"sometimes"
+    "english":"times"
   },
   {
     "german":"Weg",
-    "english":"Away"
+    "english":"Path"
   },
   {
-    "german":"CDU*",
-    "english":"CDU*"
+    "german":"CDU",
+    "english":"CDU"
   },
   {
     "german":"wollte",
@@ -3437,7 +1221,7 @@
   },
   {
     "german":"keinen",
-    "english":"nobody"
+    "english":"no"
   },
   {
     "german":"Woche",
@@ -3445,19 +1229,19 @@
   },
   {
     "german":"dagegen",
-    "english":"against it"
+    "english":"against"
   },
   {
-    "german":"alte",
-    "english":"old one"
+    "german":"alten",
+    "english":"old"
   },
   {
     "german":"möglich",
-    "english":"possibly"
+    "english":"possible"
   },
   {
     "german":"gilt",
-    "english":"counts"
+    "english":"applies"
   },
   {
     "german":"erklärte",
@@ -3465,11 +1249,11 @@
   },
   {
     "german":"müsse",
-    "english":"must go"
+    "english":"must"
   },
   {
     "german":"Dabei",
-    "english":"Besides"
+    "english":"There"
   },
   {
     "german":"könnten",
@@ -3492,8 +1276,12 @@
     "english":"Day"
   },
   {
-    "german":"Art erhalten",
-    "english":"Kind receive"
+    "german":"Art",
+    "english":"Type"
+  },
+  {
+    "german":"erhalten",
+    "english":"receive"
   },
   {
     "german":"Man",
@@ -3509,7 +1297,7 @@
   },
   {
     "german":"jeder",
-    "english":"everybody"
+    "english":"each"
   },
   {
     "german":"nie",
@@ -3517,23 +1305,23 @@
   },
   {
     "german":"bleiben",
-    "english":"remain"
+    "english":"stay"
   },
   {
     "german":"besonders",
-    "english":"especially"
+    "english":"particularly"
   },
   {
     "german":"Jahres",
-    "english":"Of year"
+    "english":"Year"
   },
   {
     "german":"Deutschen",
-    "english":"Germans"
+    "english":"German"
   },
   {
     "german":"Den",
-    "english":""
+    "english":"The"
   },
   {
     "german":"Zu",
@@ -3541,35 +1329,39 @@
   },
   {
     "german":"zunächst",
-    "english":"at first"
+    "english":"first of all"
   },
   {
     "german":"derzeit",
-    "english":"nowadays"
+    "english":"at present"
   },
   {
     "german":"allein",
-    "english":"only"
+    "english":"alone"
   },
   {
     "german":"deutlich",
-    "english":"clearly"
+    "english":"clear"
   },
   {
     "german":"Entwicklung",
     "english":"Development"
   },
   {
-    "german":"weiß**",
-    "english":"know **"
+    "german":"weiß",
+    "english":"white"
   },
   {
     "german":"einige",
     "english":"some"
   },
   {
-    "german":"sollten Präsident",
-    "english":"should go president"
+    "german":"sollten",
+    "english":"should"
+  },
+  {
+    "german":"Präsident",
+    "english":"President"
   },
   {
     "german":"geworden",
@@ -3585,7 +1377,7 @@
   },
   {
     "german":"Platz",
-    "english":"Place"
+    "english":"Space"
   },
   {
     "german":"inzwischen",
@@ -3593,7 +1385,7 @@
   },
   {
     "german":"Nur",
-    "english":"Only"
+    "english":"The Only"
   },
   {
     "german":"Freitag",
@@ -3601,7 +1393,7 @@
   },
   {
     "german":"Um",
-    "english":"Around"
+    "english":"About"
   },
   {
     "german":"pro",
@@ -3613,7 +1405,7 @@
   },
   {
     "german":"Damit",
-    "english":"With it"
+    "english":"In Order To"
   },
   {
     "german":"Montag",
@@ -3625,7 +1417,7 @@
   },
   {
     "german":"schließlich",
-    "english":"in the end"
+    "english":"after all"
   },
   {
     "german":"Sonntag",
@@ -3644,12 +1436,16 @@
     "english":"rather"
   },
   {
-    "german":"oft Zahl",
-    "english":"often number"
+    "german":"oft",
+    "english":"often"
+  },
+  {
+    "german":"Zahl",
+    "english":"Number"
   },
   {
     "german":"neben",
-    "english":"beside"
+    "english":"next"
   },
   {
     "german":"hält",
@@ -3665,15 +1461,15 @@
   },
   {
     "german":"meisten",
-    "english":"to most"
+    "english":"Most"
   },
   {
     "german":"Thema",
-    "english":"Subject"
+    "english":"Topic"
   },
   {
     "german":"zeigt",
-    "english":"points"
+    "english":"shows"
   },
   {
     "german":"Politik",
@@ -3685,23 +1481,23 @@
   },
   {
     "german":"zweiten",
-    "english":"to second ones"
+    "english":"second"
   },
   {
-    "german":"January",
+    "german":"Januar",
     "english":"January"
   },
   {
     "german":"insgesamt",
-    "english":"all together"
+    "english":"all in all"
   },
   {
     "german":"je",
-    "english":"ever"
+    "english":"each"
   },
   {
     "german":"mußte",
-    "english":"must go"
+    "english":"had"
   },
   {
     "german":"Anfang",
@@ -3713,43 +1509,47 @@
   },
   {
     "german":"ebenfalls",
-    "english":"likewise"
+    "english":"the same to you"
   },
   {
     "german":"ging",
     "english":"went"
   },
   {
-    "german":"Mitarbeiter darüber",
-    "english":"Employee about that"
+    "german":"Mitarbeiter",
+    "english":"Employee"
+  },
+  {
+    "german":"darüber",
+    "english":"about it"
   },
   {
     "german":"vielen",
-    "english":"to many"
+    "english":"a lot of"
   },
   {
     "german":"Ziel",
-    "english":"Purpose"
+    "english":"Target"
   },
   {
     "german":"darf",
-    "english":"May"
+    "english":"must"
   },
   {
     "german":"Seite",
-    "english":"Side"
+    "english":"Page"
   },
   {
     "german":"fest",
-    "english":"firmly"
+    "english":"fixed"
   },
   {
     "german":"hin",
-    "english":"there"
+    "english":"down"
   },
   {
     "german":"erklärt",
-    "english":"explains"
+    "english":"declared"
   },
   {
     "german":"Namen",
@@ -3761,7 +1561,7 @@
   },
   {
     "german":"An",
-    "english":"In"
+    "english":"To"
   },
   {
     "german":"Frankfurt",
@@ -3777,7 +1577,7 @@
   },
   {
     "german":"damals",
-    "english":"at that time"
+    "english":"at the time"
   },
   {
     "german":"Dienstag",
@@ -3813,7 +1613,7 @@
   },
   {
     "german":"gleich",
-    "english":"immediately"
+    "english":"equal"
   },
   {
     "german":"nehmen",
@@ -3821,7 +1621,7 @@
   },
   {
     "german":"solche",
-    "english":"those"
+    "english":"such"
   },
   {
     "german":"Entscheidung",
@@ -3833,7 +1633,7 @@
   },
   {
     "german":"alte",
-    "english":"old one"
+    "english":"old"
   },
   {
     "german":"Leute",
@@ -3841,7 +1641,7 @@
   },
   {
     "german":"Ergebnis",
-    "english":"Result"
+    "english":"Score"
   },
   {
     "german":"Samstag",
@@ -3865,23 +1665,27 @@
   },
   {
     "german":"tun",
-    "english":"act"
+    "english":"do"
   },
   {
     "german":"Monaten",
-    "english":"To months"
+    "english":"Months"
   },
   {
     "german":"kleinen",
-    "english":"to small ones"
+    "english":"small"
   },
   {
-    "german":"lang Nicht",
-    "english":"long Not"
+    "german":"lang",
+    "english":"long"
+  },
+  {
+    "german":"Nicht",
+    "english":"Not"
   },
   {
     "german":"knapp",
-    "english":"briefly"
+    "english":"close"
   },
   {
     "german":"bringen",
@@ -3893,7 +1697,7 @@
   },
   {
     "german":"Kosten",
-    "english":"Cost"
+    "english":"Costs"
   },
   {
     "german":"Erfolg",
@@ -3901,7 +1705,7 @@
   },
   {
     "german":"bekannt",
-    "english":"famously"
+    "english":"known"
   },
   {
     "german":"findet",
@@ -3909,11 +1713,11 @@
   },
   {
     "german":"daran",
-    "english":"in it"
+    "english":"because"
   },
   {
     "german":"künftig",
-    "english":"from now on"
+    "english":"future"
   },
   {
     "german":"wer",
@@ -3929,7 +1733,7 @@
   },
   {
     "german":"schnell",
-    "english":"fast"
+    "english":"quickly"
   },
   {
     "german":"Grund",
@@ -3937,7 +1741,7 @@
   },
   {
     "german":"scheint",
-    "english":"appears"
+    "english":"seems"
   },
   {
     "german":"Zukunft",
@@ -3952,8 +1756,12 @@
     "english":"am"
   },
   {
-    "german":"liegen politischen",
-    "english":"lie to political ones"
+    "german":"liegen",
+    "english":"lie"
+  },
+  {
+    "german":"politischen",
+    "english":"political"
   },
   {
     "german":"Gruppe",
@@ -3965,7 +1773,7 @@
   },
   {
     "german":"stellt",
-    "english":"it puts"
+    "english":"provides"
   },
   {
     "german":"Juni",
@@ -3981,7 +1789,7 @@
   },
   {
     "german":"nämlich",
-    "english":"since"
+    "english":"namely"
   },
   {
     "german":"Männer",
@@ -3992,8 +1800,12 @@
     "english":"October"
   },
   {
+    "german":"Mrd",
+    "english":"Billion"
+  },
+  {
     "german":"überhaupt",
-    "english":"generally"
+    "english":"at all"
   },
   {
     "german":"eigene",
@@ -4009,11 +1821,11 @@
   },
   {
     "german":"Außerdem",
-    "english":"In addition"
+    "english":"In Addition"
   },
   {
     "german":"Stunden",
-    "english":"hours"
+    "english":"Hours"
   },
   {
     "german":"eigentlich",
@@ -4024,16 +1836,20 @@
     "english":"Meter"
   },
   {
-    "german":"ließ Probleme",
-    "english":"left problems"
+    "german":"ließ",
+    "english":"let"
+  },
+  {
+    "german":"Probleme",
+    "english":"Problems"
   },
   {
     "german":"vielleicht",
-    "english":"maybe"
+    "english":"perhaps"
   },
   {
     "german":"ebenso",
-    "english":"also"
+    "english":"as well"
   },
   {
     "german":"Bereich",
@@ -4057,15 +1873,15 @@
   },
   {
     "german":"Während",
-    "english":"During"
+    "english":"While"
   },
   {
     "german":"Bild",
-    "english":"Picture"
+    "english":"Image"
   },
   {
     "german":"Ländern",
-    "english":"To lands"
+    "english":"Countries"
   },
   {
     "german":"Informationen",
@@ -4081,7 +1897,7 @@
   },
   {
     "german":"schwer",
-    "english":"hard"
+    "english":"difficult"
   },
   {
     "german":"zuvor",
@@ -4089,7 +1905,7 @@
   },
   {
     "german":"Vor",
-    "english":"Before"
+    "english":"In Front"
   },
   {
     "german":"genau",
@@ -4100,12 +1916,16 @@
     "english":"April"
   },
   {
-    "german":"stellen neu",
-    "english":"put anew"
+    "german":"stellen",
+    "english":"provide"
+  },
+  {
+    "german":"neu",
+    "english":"new"
   },
   {
     "german":"erwartet",
-    "english":"expects"
+    "english":"expected"
   },
   {
     "german":"Hamburg",
@@ -4113,7 +1933,7 @@
   },
   {
     "german":"sicher",
-    "english":"certainly"
+    "english":"for sure"
   },
   {
     "german":"führen",
@@ -4125,7 +1945,7 @@
   },
   {
     "german":"Über",
-    "english":""
+    "english":"About"
   },
   {
     "german":"mehrere",
@@ -4136,8 +1956,8 @@
     "english":"Economy"
   },
   {
-    "german":"Mio**",
-    "english":"Mil. **"
+    "german":"Mio",
+    "english":"Mio"
   },
   {
     "german":"Programm",
@@ -4153,7 +1973,7 @@
   },
   {
     "german":"weiteren",
-    "english":"to other ones"
+    "english":"other"
   },
   {
     "german":"natürlich",
@@ -4177,11 +1997,11 @@
   },
   {
     "german":"ganze",
-    "english":"whole one"
+    "english":"whole"
   },
   {
     "german":"kommenden",
-    "english":"to the coming"
+    "english":"next"
   },
   {
     "german":"Kunden",
@@ -4189,7 +2009,7 @@
   },
   {
     "german":"bekommen",
-    "english":"agree"
+    "english":"get"
   },
   {
     "german":"eben",
@@ -4197,11 +2017,11 @@
   },
   {
     "german":"kleine",
-    "english":"small one"
+    "english":"small"
   },
   {
     "german":"trotz",
-    "english":"resist"
+    "english":"in spite of"
   },
   {
     "german":"wirklich",
@@ -4209,11 +2029,11 @@
   },
   {
     "german":"Lage",
-    "english":"Position"
+    "english":"Location"
   },
   {
     "german":"Länder",
-    "english":"Lands"
+    "english":"Countries"
   },
   {
     "german":"leicht",
@@ -4225,11 +2045,11 @@
   },
   {
     "german":"Spiel",
-    "english":"Play"
+    "english":"Game"
   },
   {
     "german":"laut",
-    "english":"loudly"
+    "english":"according to"
   },
   {
     "german":"November",
@@ -4237,11 +2057,11 @@
   },
   {
     "german":"kurz",
-    "english":"briefly"
+    "english":"short"
   },
   {
     "german":"politische",
-    "english":"political one"
+    "english":"political"
   },
   {
     "german":"führt",
@@ -4253,31 +2073,35 @@
   },
   {
     "german":"unsere",
-    "english":"ours"
+    "english":"our"
   },
   {
-    "german":"meint immer wieder",
-    "english":"means over and over again"
+    "german":"meint",
+    "english":"thinks"
+  },
+  {
+    "german":"immer wieder",
+    "english":"again and again"
   },
   {
     "german":"Form",
-    "english":"Form"
+    "english":"Shape"
   },
   {
     "german":"Münchner",
-    "english":"Inhabitant of Munich"
+    "english":"Munich"
   },
   {
-    "german":"AG*",
-    "english":"AG*"
+    "german":"AG",
+    "english":"AG"
   },
   {
     "german":"anders",
-    "english":"differently"
+    "english":"different"
   },
   {
     "german":"ihres",
-    "english":"theirs"
+    "english":"their"
   },
   {
     "german":"völlig",
@@ -4285,15 +2109,15 @@
   },
   {
     "german":"beispielsweise",
-    "english":"for instance"
+    "english":"for example"
   },
   {
     "german":"gute",
-    "english":"good one"
+    "english":"good"
   },
   {
     "german":"bislang",
-    "english":"up to now"
+    "english":"hitherto"
   },
   {
     "german":"August",
@@ -4305,15 +2129,15 @@
   },
   {
     "german":"jede",
-    "english":"everybody"
+    "english":"each"
   },
   {
-    "german":"GmbH**",
-    "english":"Ltd **"
+    "german":"GmbH",
+    "english":"Ltd."
   },
   {
     "german":"Film",
-    "english":"Film"
+    "english":"Movie"
   },
   {
     "german":"Minuten",
@@ -4321,7 +2145,7 @@
   },
   {
     "german":"erreicht",
-    "english":"reaches"
+    "english":"achieved"
   },
   {
     "german":"beide",
@@ -4332,12 +2156,16 @@
     "english":"Music"
   },
   {
-    "german":"Kritik Mitte",
-    "english":"Criticism middle"
+    "german":"Kritik",
+    "english":"Criticism"
+  },
+  {
+    "german":"Mitte",
+    "english":"Middle"
   },
   {
     "german":"Verfügung",
-    "english":"Possession"
+    "english":"Disposal"
   },
   {
     "german":"Buch",
@@ -4345,7 +2173,7 @@
   },
   {
     "german":"dürfen",
-    "english":"May"
+    "english":"may"
   },
   {
     "german":"Unter",
@@ -4353,11 +2181,11 @@
   },
   {
     "german":"jeweils",
-    "english":"in each case"
+    "english":"each"
   },
   {
     "german":"einigen",
-    "english":"to some"
+    "english":"some"
   },
   {
     "german":"Zum",
@@ -4381,15 +2209,15 @@
   },
   {
     "german":"müßten",
-    "english":"must go"
+    "english":"would"
   },
   {
     "german":"hieß",
-    "english":"was called"
+    "english":"called"
   },
   {
     "german":"paar",
-    "english":"pair of"
+    "english":"pair"
   },
   {
     "german":"nachdem",
@@ -4401,35 +2229,39 @@
   },
   {
     "german":"Euro",
-    "english":"euro"
+    "english":"Euro"
   },
   {
     "german":"gebracht",
     "english":"brought"
   },
   {
-    "german":"Problem Noch",
-    "english":"Problem Still"
+    "german":"Problem",
+    "english":"Problem"
+  },
+  {
+    "german":"Noch",
+    "english":"Yet"
   },
   {
     "german":"jeden",
-    "english":"everybody"
+    "english":"each"
   },
   {
     "german":"Ihre",
-    "english":"Theirs"
+    "english":"Their"
   },
   {
     "german":"Sprecher",
-    "english":"Speaker"
+    "english":"Spokesman"
   },
   {
     "german":"recht",
-    "english":"surely"
+    "english":"right"
   },
   {
     "german":"erneut",
-    "english":"once more"
+    "english":"again"
   },
   {
     "german":"längst",
@@ -4437,7 +2269,7 @@
   },
   {
     "german":"europäischen",
-    "english":"to European ones"
+    "english":"European"
   },
   {
     "german":"Sein",
@@ -4453,7 +2285,7 @@
   },
   {
     "german":"besteht",
-    "english":"exists"
+    "english":"consists"
   },
   {
     "german":"Seine",
@@ -4465,7 +2297,7 @@
   },
   {
     "german":"machte",
-    "english":"did"
+    "english":"made"
   },
   {
     "german":"Jetzt",
@@ -4481,11 +2313,15 @@
   },
   {
     "german":"Bürger",
-    "english":"Citizen"
+    "english":"Citizens"
   },
   {
-    "german":"Trainer bald",
-    "english":"Coach soon"
+    "german":"Trainer",
+    "english":"Trainer"
+  },
+  {
+    "german":"bald",
+    "english":"soon"
   },
   {
     "german":"Deutsche",
@@ -4497,11 +2333,11 @@
   },
   {
     "german":"Fragen",
-    "english":"Ask"
+    "english":"Questions"
   },
   {
     "german":"klar",
-    "english":"clearly"
+    "english":"clear"
   },
   {
     "german":"Durch",
@@ -4524,12 +2360,12 @@
     "english":"for the first time"
   },
   {
-    "german":"February",
+    "german":"Februar",
     "english":"February"
   },
   {
     "german":"zeigen",
-    "english":"point"
+    "english":"show"
   },
   {
     "german":"Titel",
@@ -4541,15 +2377,15 @@
   },
   {
     "german":"größten",
-    "english":"to biggest ones"
+    "english":"greatest"
   },
   {
-    "german":"FDP***",
-    "english":"The FDP ***"
+    "german":"FDP",
+    "english":"FDP"
   },
   {
     "german":"setzt",
-    "english":"places"
+    "english":"sets"
   },
   {
     "german":"Wert",
@@ -4561,11 +2397,11 @@
   },
   {
     "german":"Staat",
-    "english":"State"
+    "english":"Country"
   },
   {
     "german":"möchte",
-    "english":"might"
+    "english":"would like"
   },
   {
     "german":"daher",
@@ -4573,19 +2409,15 @@
   },
   {
     "german":"wolle",
-    "english":"wants"
+    "english":"wool"
   },
   {
-    "german":"Bundes–",
-    "english":"Of alliance"
-  },
-  {
-    "german":"regierung",
-    "english":"regierung"
+    "german":"Bundesregierung",
+    "english":"Federal government"
   },
   {
     "german":"lediglich",
-    "english":"merely"
+    "english":"only"
   },
   {
     "german":"Nacht",
@@ -4617,23 +2449,19 @@
   },
   {
     "german":"Werk",
-    "english":"Work"
+    "english":"Plant"
   },
   {
     "german":"hohen",
-    "english":"to high ones"
+    "english":"high"
   },
   {
     "german":"leben",
     "english":"live"
   },
   {
-    "german":"unter",
-    "english":"under"
-  },
-  {
-    "german":"anderem",
-    "english":"to other"
+    "german":"unter anderem",
+    "english":"amongst other things"
   },
   {
     "german":"Dieser",
@@ -4648,8 +2476,12 @@
     "english":"furthermore"
   },
   {
-    "german":"gebe gestellt",
-    "english":"give put"
+    "german":"gebe",
+    "english":"give"
+  },
+  {
+    "german":"gestellt",
+    "english":"on"
   },
   {
     "german":"Mitglieder",
@@ -4657,11 +2489,11 @@
   },
   {
     "german":"Rahmen",
-    "english":"Frame"
+    "english":"Framework"
   },
   {
     "german":"zweite",
-    "english":"second one"
+    "english":"second"
   },
   {
     "german":"Paris",
@@ -4677,11 +2509,11 @@
   },
   {
     "german":"Wochenende",
-    "english":"Week–end"
+    "english":"Weekend"
   },
   {
     "german":"internationalen",
-    "english":"to international ones"
+    "english":"international"
   },
   {
     "german":"Wasser",
@@ -4693,11 +2525,11 @@
   },
   {
     "german":"sonst",
-    "english":"but"
+    "english":"otherwise"
   },
   {
     "german":"stand",
-    "english":"stood"
+    "english":"status"
   },
   {
     "german":"Hälfte",
@@ -4717,15 +2549,19 @@
   },
   {
     "german":"junge",
-    "english":"has young"
+    "english":"boy"
   },
   {
     "german":"Mehrheit",
     "english":"Majority"
   },
   {
-    "german":"Straße Sache",
-    "english":"Street thing"
+    "german":"Straße",
+    "english":"Road"
+  },
+  {
+    "german":"Sache",
+    "english":"Thing"
   },
   {
     "german":"arbeiten",
@@ -4741,11 +2577,11 @@
   },
   {
     "german":"berichtet",
-    "english":"reports"
+    "english":"reported"
   },
   {
     "german":"letzte",
-    "english":"the last"
+    "english":"latest"
   },
   {
     "german":"Gericht",
@@ -4757,7 +2593,7 @@
   },
   {
     "german":"Ihr",
-    "english":"You"
+    "english":"Your"
   },
   {
     "german":"zwölf",
@@ -4769,7 +2605,7 @@
   },
   {
     "german":"Wahl",
-    "english":"Choice"
+    "english":"Election"
   },
   {
     "german":"genug",
@@ -4777,7 +2613,7 @@
   },
   {
     "german":"Weise",
-    "english":"Way"
+    "english":"Manner"
   },
   {
     "german":"Vater",
@@ -4789,19 +2625,23 @@
   },
   {
     "german":"amerikanischen",
-    "english":"to American ones"
+    "english":"American"
   },
   {
     "german":"hoch",
-    "english":"high"
+    "english":"highly"
   },
   {
     "german":"beginnt",
     "english":"begins"
   },
   {
-    "german":"Wort obwohl",
-    "english":"Word although"
+    "german":"Wort",
+    "english":"Word"
+  },
+  {
+    "german":"obwohl",
+    "english":"even though"
   },
   {
     "german":"Kopf",
@@ -4817,7 +2657,7 @@
   },
   {
     "german":"Westen",
-    "english":"The west"
+    "english":"West"
   },
   {
     "german":"verloren",
@@ -4833,19 +2673,551 @@
   },
   {
     "german":"jedem",
-    "english":"to everybody"
+    "english":"each"
   },
   {
     "german":"erreichen",
     "english":"reach"
   },
   {
+    "german":"setzen",
+    "english":"set"
+  },
+  {
+    "german":"spricht",
+    "english":"speaks"
+  },
+  {
+    "german":"früher",
+    "english":"earlier"
+  },
+  {
+    "german":"teilte",
+    "english":"shared"
+  },
+  {
+    "german":"Landes",
+    "english":"Country"
+  },
+  {
+    "german":"zudem",
+    "english":"moreover"
+  },
+  {
+    "german":"einzelnen",
+    "english":"single"
+  },
+  {
+    "german":"bereit",
+    "english":"ready"
+  },
+  {
+    "german":"Blick",
+    "english":"View"
+  },
+  {
+    "german":"Druck",
+    "english":"Pressure"
+  },
+  {
+    "german":"Bayern",
+    "english":"Bavaria"
+  },
+  {
+    "german":"Kilometer",
+    "english":"Kilometer"
+  },
+  {
+    "german":"gemeinsam",
+    "english":"together"
+  },
+  {
+    "german":"Bedeutung",
+    "english":"Importance"
+  },
+  {
+    "german":"Chance",
+    "english":"Chance"
+  },
+  {
+    "german":"Politiker",
+    "english":"Politician"
+  },
+  {
+    "german":"Dazu",
+    "english":"For this purpose,"
+  },
+  {
+    "german":"Zwei",
+    "english":"Two"
+  },
+  {
+    "german":"besten",
+    "english":"Top"
+  },
+  {
+    "german":"Ansicht",
+    "english":"View"
+  },
+  {
+    "german":"endlich",
+    "english":"at last"
+  },
+  {
+    "german":"Stelle",
+    "english":"Location"
+  },
+  {
+    "german":"direkt",
+    "english":"directly"
+  },
+  {
+    "german":"Beim",
+    "english":"When"
+  },
+  {
+    "german":"Bevölkerung",
+    "english":"Population"
+  },
+  {
+    "german":"Viele",
+    "english":"Many"
+  },
+  {
+    "german":"solchen",
+    "english":"such"
+  },
+  {
+    "german":"Alle",
+    "english":"All"
+  },
+  {
+    "german":"solle",
+    "english":"should"
+  },
+  {
+    "german":"jungen",
+    "english":"young"
+  },
+  {
+    "german":"Einsatz",
+    "english":"Use"
+  },
+  {
+    "german":"richtig",
+    "english":"right"
+  },
+  {
+    "german":"größte",
+    "english":"greatest"
+  },
+  {
+    "german":"sofort",
+    "english":"right away"
+  },
+  {
+    "german":"neuer",
+    "english":"new"
+  },
+  {
+    "german":"ehemaligen",
+    "english":"former"
+  },
+  {
+    "german":"unserer",
+    "english":"our"
+  },
+  {
+    "german":"dürfte",
+    "english":"might"
+  },
+  {
+    "german":"schaffen",
+    "english":"create"
+  },
+  {
+    "german":"Augen",
+    "english":"Eyes"
+  },
+  {
+    "german":"Rußland",
+    "english":"Russia"
+  },
+  {
+    "german":"Internet",
+    "english":"Internet"
+  },
+  {
+    "german":"Allerdings",
+    "english":"Though"
+  },
+  {
+    "german":"Raum",
+    "english":"Space"
+  },
+  {
+    "german":"Mannschaft",
+    "english":"Team"
+  },
+  {
+    "german":"neun",
+    "english":"nine"
+  },
+  {
+    "german":"kamen",
+    "english":"came"
+  },
+  {
+    "german":"Ausstellung",
+    "english":"Exhibition"
+  },
+  {
+    "german":"Zeiten",
+    "english":"Times"
+  },
+  {
+    "german":"Dem",
+    "english":"The"
+  },
+  {
+    "german":"einzige",
+    "english":"single"
+  },
+  {
+    "german":"meine",
+    "english":"my"
+  },
+  {
+    "german":"Nun",
+    "english":"Now"
+  },
+  {
+    "german":"Verfahren",
+    "english":"Method"
+  },
+  {
+    "german":"Angebot",
+    "english":"Offer"
+  },
+  {
+    "german":"Richtung",
+    "english":"Direction"
+  },
+  {
+    "german":"Projekt",
+    "english":"Project"
+  },
+  {
+    "german":"niemand",
+    "english":"no one"
+  },
+  {
+    "german":"Kampf",
+    "english":"Fight"
+  },
+  {
+    "german":"weder",
+    "english":"neither"
+  },
+  {
+    "german":"tatsächlich",
+    "english":"indeed"
+  },
+  {
+    "german":"Personen",
+    "english":"People"
+  },
+  {
+    "german":"dpa",
+    "english":"dpa"
+  },
+  {
+    "german":"Heute",
+    "english":"Today"
+  },
+  {
+    "german":"geführt",
+    "english":"out"
+  },
+  {
+    "german":"Gespräch",
+    "english":"Conversation"
+  },
+  {
+    "german":"Kreis",
+    "english":"Circuit"
+  },
+  {
+    "german":"Hamburger",
+    "english":"Hamburger"
+  },
+  {
+    "german":"Schule",
+    "english":"School"
+  },
+  {
+    "german":"guten",
+    "english":"good"
+  },
+  {
+    "german":"Hauptstadt",
+    "english":"Capital"
+  },
+  {
+    "german":"durchaus",
+    "english":"quite"
+  },
+  {
+    "german":"Zusammenarbeit",
+    "english":"Cooperation"
+  },
+  {
+    "german":"darin",
+    "english":"therein"
+  },
+  {
+    "german":"Amt",
+    "english":"Office"
+  },
+  {
+    "german":"Schritt",
+    "english":"Step"
+  },
+  {
+    "german":"meist",
+    "english":"usually"
+  },
+  {
+    "german":"groß",
+    "english":"great"
+  },
+  {
+    "german":"zufolge",
+    "english":"according to"
+  },
+  {
+    "german":"Sprache",
+    "english":"Language"
+  },
+  {
+    "german":"Region",
+    "english":"Region"
+  },
+  {
+    "german":"Punkte",
+    "english":"Number of points"
+  },
+  {
+    "german":"Vergleich",
+    "english":"Comparison"
+  },
+  {
+    "german":"genommen",
+    "english":"took"
+  },
+  {
+    "german":"gleichen",
+    "english":"equal"
+  },
+  {
+    "german":"du",
+    "english":"you"
+  },
+  {
+    "german":"Ob",
+    "english":"Whether"
+  },
+  {
+    "german":"Soldaten",
+    "english":"Soldiers"
+  },
+  {
+    "german":"Universität",
+    "english":"University"
+  },
+  {
+    "german":"verschiedenen",
+    "english":"different"
+  },
+  {
+    "german":"Kollegen",
+    "english":"Colleagues"
+  },
+  {
+    "german":"neues",
+    "english":"new"
+  },
+  {
+    "german":"Bürgermeister",
+    "english":"Mayor"
+  },
+  {
+    "german":"Angst",
+    "english":"Anxiety"
+  },
+  {
+    "german":"stellte",
+    "english":"presented"
+  },
+  {
+    "german":"Sommer",
+    "english":"Summer"
+  },
+  {
+    "german":"danach",
+    "english":"after that"
+  },
+  {
+    "german":"anderer",
+    "english":"other"
+  },
+  {
+    "german":"gesagt",
+    "english":"said"
+  },
+  {
+    "german":"Sicherheit",
+    "english":"Security"
+  },
+  {
+    "german":"Macht",
+    "english":"Power"
+  },
+  {
+    "german":"Bau",
+    "english":"Building"
+  },
+  {
+    "german":"handelt",
+    "english":"These"
+  },
+  {
+    "german":"Folge",
+    "english":"Episode"
+  },
+  {
+    "german":"Bilder",
+    "english":"Pictures"
+  },
+  {
+    "german":"lag",
+    "english":"was"
+  },
+  {
+    "german":"Osten",
+    "english":"East"
+  },
+  {
+    "german":"Handel",
+    "english":"Trading"
+  },
+  {
+    "german":"sprach",
+    "english":"said,"
+  },
+  {
+    "german":"Aufgabe",
+    "english":"Task"
+  },
+  {
+    "german":"Chef",
+    "english":"Chief"
+  },
+  {
+    "german":"frei",
+    "english":"free"
+  },
+  {
+    "german":"dennoch",
+    "english":"yet"
+  },
+  {
+    "german":"DDR",
+    "english":"GDR"
+  },
+  {
+    "german":"hohe",
+    "english":"high"
+  },
+  {
+    "german":"Firmen",
+    "english":"Companies"
+  },
+  {
+    "german":"bzw",
+    "english":"respectively"
+  },
+  {
+    "german":"Koalition",
+    "english":"Coalition"
+  },
+  {
+    "german":"Mädchen",
+    "english":"Girl"
+  },
+  {
+    "german":"Zur",
+    "english":"To"
+  },
+  {
+    "german":"entwickelt",
+    "english":"developed"
+  },
+  {
+    "german":"fand",
+    "english":"found"
+  },
+  {
+    "german":"Diskussion",
+    "english":"Discussion"
+  },
+  {
+    "german":"bringt",
+    "english":"brings"
+  },
+  {
+    "german":"Deshalb",
+    "english":"That'S Why"
+  },
+  {
+    "german":"Hause",
+    "english":"Home"
+  },
+  {
+    "german":"Gefahr",
+    "english":"Danger"
+  },
+  {
+    "german":"per",
+    "english":"by"
+  },
+  {
+    "german":"zugleich",
+    "english":"at the same time"
+  },
+  {
+    "german":"früheren",
+    "english":"previous"
+  },
+  {
+    "german":"dadurch",
+    "english":"thereby"
+  },
+  {
+    "german":"ganzen",
+    "english":"all"
+  },
+  {
+    "german":"abend",
+    "english":"evening"
+  },
+  {
     "german":"erzählt",
-    "english":"tells"
+    "english":"told"
   },
   {
     "german":"Streit",
-    "english":"Quarrel"
+    "english":"Dispute"
   },
   {
     "german":"Vergangenheit",
@@ -4869,15 +3241,15 @@
   },
   {
     "german":"französischen",
-    "english":"to French ones"
+    "english":"French"
   },
   {
     "german":"Trotz",
-    "english":"In spite of"
+    "english":"In Spite Of"
   },
   {
     "german":"darunter",
-    "english":"under it"
+    "english":"among them"
   },
   {
     "german":"Spieler",
@@ -4885,7 +3257,7 @@
   },
   {
     "german":"forderte",
-    "english":"demanded"
+    "english":"called"
   },
   {
     "german":"Beispiel",
@@ -4897,19 +3269,23 @@
   },
   {
     "german":"wenigen",
-    "english":"to few"
+    "english":"few"
   },
   {
     "german":"Publikum",
     "english":"Audience"
   },
   {
-    "german":"sowohl meinte",
-    "english":"meant"
+    "german":"sowohl",
+    "english":"both"
+  },
+  {
+    "german":"meinte",
+    "english":"said"
   },
   {
     "german":"mag",
-    "english":"May"
+    "english":"Like"
   },
   {
     "german":"Auto",
@@ -4929,7 +3305,7 @@
   },
   {
     "german":"Präsidenten",
-    "english":"Presidents"
+    "english":"President"
   },
   {
     "german":"hinaus",
@@ -4941,7 +3317,7 @@
   },
   {
     "german":"verletzt",
-    "english":"injures"
+    "english":"injured"
   },
   {
     "german":"weltweit",
@@ -4961,11 +3337,11 @@
   },
   {
     "german":"mußten",
-    "english":"must go"
+    "english":"had"
   },
   {
     "german":"keiner",
-    "english":"nobody"
+    "english":"no"
   },
   {
     "german":"Produktion",
@@ -4980,16 +3356,16 @@
     "english":"needs"
   },
   {
-    "german":"Zusammen–",
-    "english":"Zusammen–"
+    "german":"Zusammenhang",
+    "english":"Context"
   },
   {
-    "german":"hang Kind",
-    "english":"hang child"
+    "german":"Kind",
+    "english":"Child"
   },
   {
     "german":"Verein",
-    "english":"Association"
+    "english":"Club"
   },
   {
     "german":"sprechen",
@@ -4997,7 +3373,7 @@
   },
   {
     "german":"Aktien",
-    "english":"Stocks"
+    "english":"Shares"
   },
   {
     "german":"gleichzeitig",
@@ -5009,7 +3385,7 @@
   },
   {
     "german":"sogenannten",
-    "english":"to so–called"
+    "english":"so-called"
   },
   {
     "german":"Richter",
@@ -5025,7 +3401,7 @@
   },
   {
     "german":"Mittel",
-    "english":"Means"
+    "english":"Resources"
   },
   {
     "german":"her",
@@ -5033,19 +3409,19 @@
   },
   {
     "german":"freilich",
-    "english":"admittedly"
+    "english":"of course"
   },
   {
     "german":"Mensch",
-    "english":"Person"
+    "english":"Man"
   },
   {
     "german":"großer",
-    "english":"big one"
+    "english":"great"
   },
   {
     "german":"Bonner",
-    "english":"Inhabitant of Bonn"
+    "english":"Bonn"
   },
   {
     "german":"wenige",
@@ -5053,35 +3429,31 @@
   },
   {
     "german":"öffentlichen",
-    "english":"to public ones"
+    "english":"public"
   },
   {
     "german":"Unterstützung",
     "english":"Support"
   },
   {
-    "german":"dritten nahm",
-    "english":"took from third ones"
+    "german":"dritten",
+    "english":"third"
   },
   {
-    "german":"Bundes–",
-    "english":"Of alliance"
+    "german":"nahm",
+    "english":"took"
   },
   {
-    "german":"republik",
-    "english":"republik"
+    "german":"Bundesrepublik",
+    "english":"Federal Republic"
   },
   {
-    "german":"Arbeits–",
-    "english":"Work"
-  },
-  {
-    "german":"plätze",
-    "english":"plätze"
+    "german":"Arbeitsplätze",
+    "english":"Jobs"
   },
   {
     "german":"bedeutet",
-    "english":"signifies"
+    "english":"means"
   },
   {
     "german":"Feld",
@@ -5097,39 +3469,35 @@
   },
   {
     "german":"oben",
-    "english":"on top"
+    "english":"top"
   },
   {
     "german":"gesetzt",
-    "english":"sedately"
+    "english":"set"
   },
   {
     "german":"Ausland",
-    "english":"Foreign country"
+    "english":"Foreign countries"
   },
   {
-    "german":"Minister–",
-    "english":"Minister"
-  },
-  {
-    "german":"präsident",
-    "english":"präsident"
+    "german":"Ministerpräsident",
+    "english":"Prime minister"
   },
   {
     "german":"Vertreter",
     "english":"Representative"
   },
   {
-    "german":"z.B.*",
-    "english":"z. B.*"
+    "german":"z.B.",
+    "english":"e.g."
   },
   {
     "german":"jedes",
-    "english":"everybody"
+    "english":"each"
   },
   {
     "german":"ziehen",
-    "english":"move"
+    "english":"pull"
   },
   {
     "german":"Parlament",
@@ -5148,8 +3516,12 @@
     "english":"China"
   },
   {
-    "german":"aufgrund Stellen",
-    "english":"on account of places"
+    "german":"aufgrund",
+    "english":"on the basis of"
+  },
+  {
+    "german":"Stellen",
+    "english":"Provide"
   },
   {
     "german":"warum",
@@ -5157,7 +3529,7 @@
   },
   {
     "german":"Kindern",
-    "english":"To children"
+    "english":"Children"
   },
   {
     "german":"heraus",
@@ -5165,23 +3537,19 @@
   },
   {
     "german":"heutigen",
-    "english":"to today's ones"
+    "english":"today"
   },
   {
     "german":"Anteil",
-    "english":"Interest"
+    "english":"Share"
   },
   {
     "german":"Herr",
-    "english":"Man"
+    "english":"Mr"
   },
   {
-    "german":"Öffentlich–",
-    "english":"Publicly"
-  },
-  {
-    "german":"keit",
-    "english":"keit"
+    "german":"Öffentlichkeit",
+    "english":"Public"
   },
   {
     "german":"Abend",
@@ -5189,7 +3557,7 @@
   },
   {
     "german":"Selbst",
-    "english":"Even"
+    "english":"Itself"
   },
   {
     "german":"Liebe",
@@ -5197,7 +3565,7 @@
   },
   {
     "german":"Neben",
-    "english":"Beside"
+    "english":"Next"
   },
   {
     "german":"rechnen",
@@ -5216,20 +3584,20 @@
     "english":"Industry"
   },
   {
-    "german":"WELT**",
-    "english":"WELT **"
+    "german":"WELT",
+    "english":"WORLD"
   },
   {
     "german":"Stuttgarter",
-    "english":"Inhabitant of Stuttgart"
+    "english":"Stuttgart"
   },
   {
     "german":"wären",
-    "english":"would be"
+    "english":"would"
   },
   {
     "german":"Vorjahr",
-    "english":"Year before"
+    "english":"Previous year"
   },
   {
     "german":"Sicht",
@@ -5249,7 +3617,7 @@
   },
   {
     "german":"Leiter",
-    "english":"Leader"
+    "english":"Conductor"
   },
   {
     "german":"Bühne",
@@ -5261,7 +3629,7 @@
   },
   {
     "german":"offen",
-    "english":"openly"
+    "english":"open"
   },
   {
     "german":"stets",
@@ -5285,7 +3653,7 @@
   },
   {
     "german":"Experten",
-    "english":"Experts"
+    "english":"Expert"
   },
   {
     "german":"Gesetz",
@@ -5301,15 +3669,19 @@
   },
   {
     "german":"angesichts",
-    "english":"in view of"
+    "english":"in the face of"
   },
   {
     "german":"gelten",
-    "english":"count"
+    "english":"apply to"
   },
   {
-    "german":"Mehr erwarten",
-    "english":"More expect"
+    "german":"Mehr",
+    "english":"More"
+  },
+  {
+    "german":"erwarten",
+    "english":"expect"
   },
   {
     "german":"läuft",
@@ -5317,7 +3689,7 @@
   },
   {
     "german":"fordert",
-    "english":"demands"
+    "english":"Calls"
   },
   {
     "german":"Japan",
@@ -5333,7 +3705,7 @@
   },
   {
     "german":"Stimmen",
-    "english":"Be right"
+    "english":"Voices"
   },
   {
     "german":"wählen",
@@ -5341,27 +3713,27 @@
   },
   {
     "german":"russischen",
-    "english":"to Russian ones"
+    "english":"Russian"
   },
   {
     "german":"gewinnen",
     "english":"win"
   },
   {
-    "german":"CSU*",
-    "english":"CSU*"
+    "german":"CSU",
+    "english":"Christian Social Union"
   },
   {
     "german":"bieten",
-    "english":"offer"
+    "english":"provide"
   },
   {
     "german":"Nähe",
-    "english":"Nearness"
+    "english":"Proximity"
   },
   {
     "german":"jährlich",
-    "english":"yearly"
+    "english":"annually"
   },
   {
     "german":"Bremen",
@@ -5369,7 +3741,7 @@
   },
   {
     "german":"Schüler",
-    "english":"Pupil"
+    "english":"Student"
   },
   {
     "german":"Rede",
@@ -5381,15 +3753,19 @@
   },
   {
     "german":"Zuschauer",
-    "english":"Spectator"
+    "english":"Viewers"
   },
   {
-    "german":"hingegen anderes",
-    "english":"however"
+    "german":"hingegen",
+    "english":"on the other hand"
+  },
+  {
+    "german":"anderes",
+    "english":"other"
   },
   {
     "german":"Führung",
-    "english":"Guidance"
+    "english":"Leadership"
   },
   {
     "german":"Besucher",
@@ -5405,11 +3781,11 @@
   },
   {
     "german":"immerhin",
-    "english":"at least"
+    "english":"after all"
   },
   {
     "german":"Vorsitzende",
-    "english":"Chairperson"
+    "english":"Chairman"
   },
   {
     "german":"Urteil",
@@ -5417,7 +3793,7 @@
   },
   {
     "german":"Schließlich",
-    "english":"In the end"
+    "english":"In The End"
   },
   {
     "german":"Kultur",
@@ -5437,11 +3813,11 @@
   },
   {
     "german":"Konzept",
-    "english":"Draft"
+    "english":"Concept"
   },
   {
     "german":"suchen",
-    "english":"look"
+    "english":"look for"
   },
   {
     "german":"Zahlen",
@@ -5449,35 +3825,39 @@
   },
   {
     "german":"Roman",
-    "english":"Roman"
+    "english":"Novel"
   },
   {
     "german":"Gewalt",
-    "english":"Power"
+    "english":"Violence"
   },
   {
     "german":"Köln",
     "english":"Cologne"
   },
   {
-    "german":"gesamte indem",
-    "english":"whole while"
+    "german":"gesamte",
+    "english":"entire"
   },
   {
-    "german":"EU**",
-    "english":"The EU **"
+    "german":"indem",
+    "english":"while"
+  },
+  {
+    "german":"EU",
+    "english":"EU"
   },
   {
     "german":"Stunde",
-    "english":"hour"
+    "english":"Hour"
   },
   {
     "german":"ehemalige",
-    "english":"former one"
+    "english":"former"
   },
   {
     "german":"Auftrag",
-    "english":"Order"
+    "english":"Contract"
   },
   {
     "german":"entscheiden",
@@ -5485,19 +3865,19 @@
   },
   {
     "german":"genannt",
-    "english":"called"
+    "english":"named"
   },
   {
     "german":"tragen",
-    "english":"carry"
+    "english":"wear"
   },
   {
     "german":"Börse",
-    "english":"Stock exchange"
+    "english":"Exchange"
   },
   {
     "german":"langen",
-    "english":"last"
+    "english":"long"
   },
   {
     "german":"häufig",
@@ -5505,11 +3885,11 @@
   },
   {
     "german":"Chancen",
-    "english":"Chances"
+    "english":"Prospects"
   },
   {
     "german":"Vor allem",
-    "english":"Above all"
+    "english":"Particularly"
   },
   {
     "german":"Position",
@@ -5536,20 +3916,24 @@
     "english":"stronger"
   },
   {
-    "german":"ohnehin zeigte",
-    "english":"anyway pointed"
+    "german":"ohnehin",
+    "english":"anyway"
+  },
+  {
+    "german":"zeigte",
+    "english":"showed"
   },
   {
     "german":"geplanten",
-    "english":"to planned ones"
+    "english":"planned"
   },
   {
     "german":"Reihe",
-    "english":"Row"
+    "english":"Series"
   },
   {
     "german":"darum",
-    "english":"therefore"
+    "english":"that is why"
   },
   {
     "german":"verhindern",
@@ -5557,7 +3941,7 @@
   },
   {
     "german":"begann",
-    "english":"began"
+    "english":"started"
   },
   {
     "german":"Medien",
@@ -5565,7 +3949,7 @@
   },
   {
     "german":"verkauft",
-    "english":"sells"
+    "english":"sold"
   },
   {
     "german":"Minister",
@@ -5573,11 +3957,11 @@
   },
   {
     "german":"wichtig",
-    "english":"importantly"
+    "english":"important"
   },
   {
     "german":"amerikanische",
-    "english":"American one"
+    "english":"American"
   },
   {
     "german":"sah",
@@ -5585,7 +3969,7 @@
   },
   {
     "german":"gesamten",
-    "english":"to whole ones"
+    "english":"entire"
   },
   {
     "german":"einst",
@@ -5593,7 +3977,7 @@
   },
   {
     "german":"verwendet",
-    "english":"uses"
+    "english":"used"
   },
   {
     "german":"vorbei",
@@ -5613,6 +3997,6 @@
   },
   {
     "german":"bezeichnet",
-    "english":"calls"
+    "english":"referred to"
   }
 ]
