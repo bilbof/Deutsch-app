@@ -1,0 +1,42 @@
+body {
+  font-size: 30px;
+  text-align: center;
+}
+
+.wrapper {
+  position: relative;
+  width: 100%;
+  background-color: #fff;
+}
+
+.card {
+  width: 300px;
+  border-radius: 5;
+/*   -webkit-box-shadow: 0px 4px 10px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 4px 10px 1px rgba(0,0,0,0.75);
+box-shadow: 0px 4px 10px 1px rgba(0,0,0,0.75);
+ */  padding: 20px;
+  margin: 50px auto;
+}
+
+h1, .word {
+ padding: 0;
+ margin: 0
+}
+
+p {
+  padding: 20px;
+  margin: 0
+}
+
+.buttons {
+  width: 100%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.bug {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
