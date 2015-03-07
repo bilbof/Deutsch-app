@@ -4,14 +4,11 @@ $(document).ready(function () { // load json file using jquery ajax
   var english = [];
 
     $.getJSON('data.json', function (data) {
-      // Push German words to array
-      $.each(data, function (key, val) {
-        german.push(val.german);
-      });
-      // Push English words to array
-      $.each(data, function (key, val) {
-        english.push(val.english);
-      });
+      //Push German and Enlgish words to array
+      for(var i = 0; i < data.length; i++) {
+        german.push(data[i]["german"]);
+        english.push(data[i]["english"]);
+      }
     });
 
     function translate(){
