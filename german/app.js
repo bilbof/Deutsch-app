@@ -27,15 +27,11 @@ $(document).ready(function () { // load json file using jquery ajax
       }
     });
 
-    function showLast() {
-      var lastWord = prevWords[(prevWords.length -1)];
-    }
-
     function translate(){
         // Get random string between 0 and number of objects in json
       var max = german.length;
       var n = Math.floor(Math.random() * max);
-      console.log("current word is " + n);
+      console.log("current german word is " + n);
       prevWords.push(n);
       $('#german').text(german[n]);
       $('.reveal').click(function(){
@@ -48,21 +44,19 @@ $(document).ready(function () { // load json file using jquery ajax
         // Get random string between 0 and number of objects in json
       var max = russian.length;
       var r = Math.floor(Math.random() * max);
-      console.log(r);
+      console.log("current russian word is " + r);
       prevWords.push(r);
-      console.log(prevWords);
       $('#russian').text(russian[r]);
       $('.reveal').click(function(){
         $('#english').text(english_r[r]);
         $('#sentence').text(sentence_r[r]);
       });
     }
-    function getLastGerman() {
+    function getLast() {
       var index = (prevWords.length - 1);
       if (index > 0) { prevWords.splice(index, 1); }
       var lastWord = prevWords[(prevWords.length -1)];
-      console.log("previous words are " + prevWords);
-      console.log("last words is " + lastWord);
+      console.log("previous words is " + lastWord);
       $('#german').text(german[lastWord]);
       $('#russian').text(russian[lastWord]);
       $('.reveal').click(function(){
@@ -71,6 +65,11 @@ $(document).ready(function () { // load json file using jquery ajax
       });
     }
 
+    $('.last').click(function(){
+      $('#english').text("?"); 	// replace all existing content
+      $('#sentence').text("?"); 	// replace all existing content
+      getLast();
+    });
 
 
 // defines russian and german
@@ -91,10 +90,6 @@ $(document).ready(function () { // load json file using jquery ajax
         $('.reveal').click();
       }
   });
-  $('.last').click(function(){
-    $('#english').text("?"); 	// replace all existing content
-    getLastGerman();
-  });
 } else
  if (window.location.href.indexOf('russian') > -1 ) {
   translateRussian();
@@ -104,11 +99,6 @@ $(document).ready(function () { // load json file using jquery ajax
       $('#sentence').text("?"); 	// replace all existing content
     });
   }
-  $('.last').click(function(){
-    $('#english').text("?"); 	// replace all existing content
-    $('#sentence').text("?"); 	// replace all existing content
-    getLastGerman();
-  });
 
 
 
